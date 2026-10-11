@@ -21,7 +21,6 @@
 |  14 | Vika and the Bridge — 1848B               | Codeforces, 1200      | https://codeforces.com/problemset/problem/1848/B                   |
 |  16 | Pursuit — 1530C                           | Codeforces, 1200      | https://codeforces.com/problemset/problem/1530/C                   |
 |  17 | Sage's Birthday — 1419D1                  | Codeforces, 1000      | https://codeforces.com/problemset/problem/1419/D1                  |
-|  18 | Pashmak and Flowers — 459B                | Codeforces, 1300      | https://codeforces.com/problemset/problem/459/B                    |
 |  19 | Jeff and Periods — 352B                   | Codeforces, 1300      | https://codeforces.com/problemset/problem/352/B                    |
 |  20 | Little Girl and Maximum Sum — 276C        | Codeforces, 1500      | https://codeforces.com/problemset/problem/276/C                    |
 |  22 | Product of Array Except Self — 238        | LeetCode, Medium      | https://leetcode.com/problems/product-of-array-except-self/        |
@@ -125,11 +124,9 @@
 
 |   # | Problem                                                      | Platform / difficulty               | Link                                                                                   |
 | --: | ------------------------------------------------------------ | ----------------------------------- | -------------------------------------------------------------------------------------- |
-| 122 | Worms — 474B                                                 | Codeforces, 1200                    | https://codeforces.com/problemset/problem/474/B                                        |
 | 123 | Vanya and Lanterns — 492B                                    | Codeforces, 1200                    | https://codeforces.com/problemset/problem/492/B                                        |
 | 124 | K-th Not Divisible by n — 1352C                              | Codeforces, 1200                    | https://codeforces.com/problemset/problem/1352/C                                       |
 | 125 | T-primes — 230B                                              | Codeforces, 1300                    | https://codeforces.com/problemset/problem/230/B                                        |
-| 126 | Traffic Light — 1744C                                        | Codeforces, 1000                    | https://codeforces.com/problemset/problem/1744/C                                       |
 | 127 | Building an Aquarium — 1873E                                 | Codeforces, 1100                    | https://codeforces.com/problemset/problem/1873/E                                       |
 | 128 | Binary Deque — 1692E                                         | Codeforces, 1200                    | https://codeforces.com/problemset/problem/1692/E                                       |
 | 129 | Poisoned Dagger — 1613C                                      | Codeforces, 1200                    | https://codeforces.com/problemset/problem/1613/C                                       |
