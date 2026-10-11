@@ -62,7 +62,7 @@
 
 |   # | Problem                                                                | Platform / difficulty              | Link                                                                                  |
 | --: | ---------------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------------------- |
-|  83 | Rotate Image — 48                                                      | LeetCode, Medium                   | https://leetcode.com/problems/rotate-image/                                           |
+|  83 | Rotate Image — 48                                                      | LeetCode, Medium                   |                                            |
 |  84 | Word Search — 79                                                       | LeetCode, Medium                   | https://leetcode.com/problems/word-search/                                            |
 |  87 | Number of Islands — 200                                                | LeetCode, Medium                   | https://leetcode.com/problems/number-of-islands/                                      |
 |  88 | Maximal Square — 221                                                   | LeetCode, Medium                   | https://leetcode.com/problems/maximal-square/                                         |
@@ -142,7 +142,6 @@
 | 179 | Remove Duplicate Letters — 316                        | LeetCode, Medium                    | https://leetcode.com/problems/remove-duplicate-letters/                       |
 | 180 | Shortest Unsorted Continuous Subarray — 581           | LeetCode, Medium                    | https://leetcode.com/problems/shortest-unsorted-continuous-subarray/          |
 | 182 | Simplify Path — 71                                    | LeetCode, Medium                    | https://leetcode.com/problems/simplify-path/                                  |
-| 183 | Score of Parentheses — 856                            | LeetCode, Medium                    | https://leetcode.com/problems/score-of-parentheses/                           |
 | 184 | Longest Valid Parentheses — 32                        | LeetCode, Hard                      | https://leetcode.com/problems/longest-valid-parentheses/                      |
 | 185 | Trapping Rain Water — 42                              | LeetCode, Hard; duplicate of #36    | https://leetcode.com/problems/trapping-rain-water/                            |
 | 186 | Maximum Frequency Stack — 895                         | LeetCode, Hard                      | https://leetcode.com/problems/maximum-frequency-stack/                        |
