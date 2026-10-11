@@ -26,7 +26,6 @@
 |  24 | 3Sum — 15                                 | LeetCode, Medium      | https://leetcode.com/problems/3sum/                                |
 |  25 | Subarray Sum Equals K — 560               | LeetCode, Medium      | https://leetcode.com/problems/subarray-sum-equals-k/               |
 |  26 | Maximum Product Subarray — 152            | LeetCode, Medium      | https://leetcode.com/problems/maximum-product-subarray/            |
-|  28 | Sort Colors — 75                          | LeetCode, Medium      | https://leetcode.com/problems/sort-colors/                         |
 |  29 | Next Permutation — 31                     | LeetCode, Medium      | https://leetcode.com/problems/next-permutation/                    |
 |  30 | Jump Game — 55                            | LeetCode, Medium      | https://leetcode.com/problems/jump-game/                           |
 |  31 | Insert Interval — 57                      | LeetCode, Medium      | https://leetcode.com/problems/insert-interval/                     |
@@ -91,7 +90,6 @@
 | 100 | Count Square Submatrices with All Ones — 1277                          | LeetCode, Medium                   | https://leetcode.com/problems/count-square-submatrices-with-all-ones/                 |
 | 101 | Longest Increasing Path in a Matrix — 329                              | LeetCode, Hard                     | https://leetcode.com/problems/longest-increasing-path-in-a-matrix/                    |
 | 102 | Maximal Rectangle — 85                                                 | LeetCode, Hard                     | https://leetcode.com/problems/maximal-rectangle/                                      |
-| 103 | Cherry Pickup — 741                                                    | LeetCode, Hard                     | https://leetcode.com/problems/cherry-pickup/                                          |
 | 104 | Trapping Rain Water II — 407                                           | LeetCode, Hard                     | https://leetcode.com/problems/trapping-rain-water-ii/                                 |
 | 105 | Number of Closed Islands — 1254                                        | LeetCode, Medium                   | https://leetcode.com/problems/number-of-closed-islands/                               |
 | 106 | Number of Enclaves — 1020                                              | LeetCode, Medium                   | https://leetcode.com/problems/number-of-enclaves/                                     |
@@ -129,7 +127,6 @@
 | 142 | Search in Rotated Sorted Array — 33                          | LeetCode, Medium                    | https://leetcode.com/problems/search-in-rotated-sorted-array/                          |
 | 145 | Find Minimum in Rotated Sorted Array — 153                   | LeetCode, Medium                    | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/                    |
 | 146 | Search in Rotated Sorted Array II — 81                       | LeetCode, Medium                    | https://leetcode.com/problems/search-in-rotated-sorted-array-ii/                       |
-| 148 | Koko Eating Bananas — 875                                    | LeetCode, Medium                    | https://leetcode.com/problems/koko-eating-bananas/                                     |
 | 149 | Capacity To Ship Packages Within D Days — 1011               | LeetCode, Medium                    | https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/                 |
 | 151 | Median of Two Sorted Arrays — 4                              | LeetCode, Hard; duplicate of #40    | https://leetcode.com/problems/median-of-two-sorted-arrays/                             |
 | 152 | Find K-th Smallest Pair Distance — 719                       | LeetCode, Hard                      | https://leetcode.com/problems/find-k-th-smallest-pair-distance/                        |
@@ -148,7 +145,6 @@
 | --: | ----------------------------------------------------- | ----------------------------------- | ----------------------------------------------------------------------------- |
 | 164 | Generate Parentheses — 22                             | LeetCode, Medium                    | https://leetcode.com/problems/generate-parentheses/                           |
 | 165 | Daily Temperatures — 739                              | LeetCode, Medium; duplicate of #35  | https://leetcode.com/problems/daily-temperatures/                             |
-| 166 | Next Greater Element I — 496                          | LeetCode, Easy prerequisite         | https://leetcode.com/problems/next-greater-element-i/                         |
 | 167 | Next Greater Element II — 503                         | LeetCode, Medium                    | https://leetcode.com/problems/next-greater-element-ii/                        |
 | 168 | Largest Rectangle in Histogram — 84                   | LeetCode, Hard                      | https://leetcode.com/problems/largest-rectangle-in-histogram/                 |
 | 169 | Maximal Rectangle — 85                                | LeetCode, Hard; duplicate of #102   | https://leetcode.com/problems/maximal-rectangle/                              |
@@ -169,9 +165,7 @@
 | 184 | Longest Valid Parentheses — 32                        | LeetCode, Hard                      | https://leetcode.com/problems/longest-valid-parentheses/                      |
 | 185 | Trapping Rain Water — 42                              | LeetCode, Hard; duplicate of #36    | https://leetcode.com/problems/trapping-rain-water/                            |
 | 186 | Maximum Frequency Stack — 895                         | LeetCode, Hard                      | https://leetcode.com/problems/maximum-frequency-stack/                        |
-| 187 | Dinner Plate Stacks — 1172                            | LeetCode, Hard                      | https://leetcode.com/problems/dinner-plate-stacks/                            |
 | 188 | Design a Stack With Increment Operation — 1381        | LeetCode, Medium                    | https://leetcode.com/problems/design-a-stack-with-increment-operation/        |
-| 189 | Crawler Log Folder — 1598                             | LeetCode, Easy prerequisite         | https://leetcode.com/problems/crawler-log-folder/                             |
 | 190 | Remove All Adjacent Duplicates in String II — 1209    | LeetCode, Medium                    | https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/    |
 | 191 | Maximum Width Ramp — 962                              | LeetCode, Medium                    | https://leetcode.com/problems/maximum-width-ramp/                             |
 | 192 | Car Fleet — 853                                       | LeetCode, Medium                    | https://leetcode.com/problems/car-fleet/                                      |
