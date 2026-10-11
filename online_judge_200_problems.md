@@ -32,7 +32,6 @@
 |  31 | Insert Interval — 57                      | LeetCode, Medium      | https://leetcode.com/problems/insert-interval/                     |
 |  32 | Merge Intervals — 56                      | LeetCode, Medium      | https://leetcode.com/problems/merge-intervals/                     |
 |  33 | Non-overlapping Intervals — 435           | LeetCode, Medium      | https://leetcode.com/problems/non-overlapping-intervals/           |
-|  34 | Find All Duplicates in an Array — 442     | LeetCode, Medium      | https://leetcode.com/problems/find-all-duplicates-in-an-array/     |
 |  36 | Trapping Rain Water — 42                  | LeetCode, Hard        | https://leetcode.com/problems/trapping-rain-water/                 |
 |  37 | First Missing Positive — 41               | LeetCode, Hard        | https://leetcode.com/problems/first-missing-positive/              |
 |  38 | Sliding Window Maximum — 239              | LeetCode, Hard        | https://leetcode.com/problems/sliding-window-maximum/              |
@@ -52,7 +51,6 @@
 |  51 | Copy List with Random Pointer — 138                       | LeetCode, Medium            | https://leetcode.com/problems/copy-list-with-random-pointer/                                        |
 |  52 | Linked List Cycle II — 142                                | LeetCode, Medium            | https://leetcode.com/problems/linked-list-cycle-ii/                                                 |
 |  56 | Reverse Linked List II — 92                               | LeetCode, Medium            | https://leetcode.com/problems/reverse-linked-list-ii/                                               |
-|  57 | Remove Duplicates from Sorted List — 83                   | LeetCode, Easy prerequisite | https://leetcode.com/problems/remove-duplicates-from-sorted-list/                                   |
 |  58 | Odd Even Linked List — 328                                | LeetCode, Medium            | https://leetcode.com/problems/odd-even-linked-list/                                                 |
 |  59 | Flatten a Multilevel Doubly Linked List — 430             | LeetCode, Medium            | https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/                              |
 |  60 | Design Linked List — 707                                  | LeetCode, Medium            | https://leetcode.com/problems/design-linked-list/                                                   |
