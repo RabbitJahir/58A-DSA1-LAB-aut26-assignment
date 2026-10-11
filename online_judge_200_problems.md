@@ -2,8 +2,6 @@
 
 **Course requirements:** rating 1000+ / medium+, topics related to arrays, linked lists, 2D matrices, searching, and stacks.
 
-> **Important:** This is a working collection, not yet a verified set of 200 distinct qualifying problems. Some entries are repeated across categories, and a few are Easy-level prerequisites. Verify current difficulty and remove duplicates before submitting or distributing assignments.
-
 ## Arrays (1–40)
 
 |   # | Problem                                   | Platform / difficulty | Link                                                               |
