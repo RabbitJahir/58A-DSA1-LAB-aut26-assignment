@@ -74,7 +74,6 @@
 |  64 | Design Circular Deque — 641                               | LeetCode, Medium            | https://leetcode.com/problems/design-circular-deque/                                                |
 |  65 | Design Circular Queue — 622                               | LeetCode, Medium            | https://leetcode.com/problems/design-circular-queue/                                                |
 |  67 | Palindrome Linked List — 234                              | LeetCode, Easy prerequisite | https://leetcode.com/problems/palindrome-linked-list/                                               |
-|  69 | Linked List Cycle — 141                                   | LeetCode, Easy prerequisite |                                                     |
 |  70 | Add Two Numbers II — 445                                  | LeetCode, Medium            | https://leetcode.com/problems/add-two-numbers-ii/                                                   |
 |  71 | Split Linked List in Parts — 725                          | LeetCode, Medium            | https://leetcode.com/problems/split-linked-list-in-parts/                                           |
 |  72 | Next Greater Node In Linked List — 1019                   | LeetCode, Medium            | https://leetcode.com/problems/next-greater-node-in-linked-list/                                     |
@@ -172,7 +171,6 @@
 |   # | Problem                                               | Platform / difficulty               | Link                                                                          |
 | --: | ----------------------------------------------------- | ----------------------------------- | ----------------------------------------------------------------------------- |
 | 162 | Min Stack — 155                                       | LeetCode, Medium                    | https://leetcode.com/problems/min-stack/                                      |
-| 163 | Evaluate Reverse Polish Notation — 150                | LeetCode, Medium                    |                |
 | 164 | Generate Parentheses — 22                             | LeetCode, Medium                    | https://leetcode.com/problems/generate-parentheses/                           |
 | 165 | Daily Temperatures — 739                              | LeetCode, Medium; duplicate of #35  | https://leetcode.com/problems/daily-temperatures/                             |
 | 166 | Next Greater Element I — 496                          | LeetCode, Easy prerequisite         | https://leetcode.com/problems/next-greater-element-i/                         |
