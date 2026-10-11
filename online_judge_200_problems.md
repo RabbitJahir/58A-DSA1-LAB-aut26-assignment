@@ -20,7 +20,6 @@
 |  23 | Container With Most Water — 11            | LeetCode, Medium      | https://leetcode.com/problems/container-with-most-water/           |
 |  24 | 3Sum — 15                                 | LeetCode, Medium      | https://leetcode.com/problems/3sum/                                |
 |  25 | Subarray Sum Equals K — 560               | LeetCode, Medium      | https://leetcode.com/problems/subarray-sum-equals-k/               |
-|  26 | Maximum Product Subarray — 152            | LeetCode, Medium      | https://leetcode.com/problems/maximum-product-subarray/            |
 |  29 | Next Permutation — 31                     | LeetCode, Medium      | https://leetcode.com/problems/next-permutation/                    |
 |  30 | Jump Game — 55                            | LeetCode, Medium      | https://leetcode.com/problems/jump-game/                           |
 |  31 | Insert Interval — 57                      | LeetCode, Medium      | https://leetcode.com/problems/insert-interval/                     |
@@ -35,7 +34,6 @@
 
 |   # | Problem                                                   | Platform / difficulty       | Link                                                                                                |
 | --: | --------------------------------------------------------- | --------------------------- | --------------------------------------------------------------------------------------------------- |
-|  42 | Remove Nth Node From End of List — 19                     | LeetCode, Medium            | https://leetcode.com/problems/remove-nth-node-from-end-of-list/                                     |
 |  43 | Swap Nodes in Pairs — 24                                  | LeetCode, Medium            | https://leetcode.com/problems/swap-nodes-in-pairs/                                                  |
 |  44 | Reverse Nodes in k-Group — 25                             | LeetCode, Hard              | https://leetcode.com/problems/reverse-nodes-in-k-group/                                             |
 |  47 | Rotate List — 61                                          | LeetCode, Medium            | https://leetcode.com/problems/rotate-list/                                                          |
@@ -64,7 +62,6 @@
 
 |   # | Problem                                                                | Platform / difficulty              | Link                                                                                  |
 | --: | ---------------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------------------- |
-|  82 | Spiral Matrix — 54                                                     | LeetCode, Medium                   | https://leetcode.com/problems/spiral-matrix/                                          |
 |  83 | Rotate Image — 48                                                      | LeetCode, Medium                   | https://leetcode.com/problems/rotate-image/                                           |
 |  84 | Word Search — 79                                                       | LeetCode, Medium                   | https://leetcode.com/problems/word-search/                                            |
 |  87 | Number of Islands — 200                                                | LeetCode, Medium                   | https://leetcode.com/problems/number-of-islands/                                      |
@@ -112,7 +109,6 @@
 | 138 | Slay the Dragon — 1574C                                      | Codeforces, 1300                    | https://codeforces.com/problemset/problem/1574/C                                       |
 | 139 | Number of Pairs — 1538C                                      | Codeforces, 1300; duplicate of #3   | https://codeforces.com/problemset/problem/1538/C                                       |
 | 140 | Equalize — 1928B                                             | Codeforces, 1200; duplicate of #13  | https://codeforces.com/problemset/problem/1928/B                                       |
-| 142 | Search in Rotated Sorted Array — 33                          | LeetCode, Medium                    | https://leetcode.com/problems/search-in-rotated-sorted-array/                          |
 | 145 | Find Minimum in Rotated Sorted Array — 153                   | LeetCode, Medium                    | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/                    |
 | 146 | Search in Rotated Sorted Array II — 81                       | LeetCode, Medium                    | https://leetcode.com/problems/search-in-rotated-sorted-array-ii/                       |
 | 149 | Capacity To Ship Packages Within D Days — 1011               | LeetCode, Medium                    | https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/                 |
