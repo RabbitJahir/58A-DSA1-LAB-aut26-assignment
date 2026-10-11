@@ -19,7 +19,6 @@
 |  12 | Accidental Victory — 1490E                | Codeforces, 1400      | https://codeforces.com/problemset/problem/1490/E                   |
 |  13 | Equalize — 1928B                          | Codeforces, 1200      | https://codeforces.com/problemset/problem/1928/B                   |
 |  14 | Vika and the Bridge — 1848B               | Codeforces, 1200      | https://codeforces.com/problemset/problem/1848/B                   |
-|  15 | Array Destruction — 1474C                 | Codeforces, 1700      | https://codeforces.com/problemset/problem/1474/C                   |
 |  16 | Pursuit — 1530C                           | Codeforces, 1200      | https://codeforces.com/problemset/problem/1530/C                   |
 |  17 | Sage's Birthday — 1419D1                  | Codeforces, 1000      | https://codeforces.com/problemset/problem/1419/D1                  |
 |  18 | Pashmak and Flowers — 459B                | Codeforces, 1300      | https://codeforces.com/problemset/problem/459/B                    |
@@ -49,7 +48,6 @@
 
 |   # | Problem                                                   | Platform / difficulty       | Link                                                                                                |
 | --: | --------------------------------------------------------- | --------------------------- | --------------------------------------------------------------------------------------------------- |
-|  41 | Add Two Numbers — 2                                       | LeetCode, Medium            | https://leetcode.com/problems/add-two-numbers/                                                      |
 |  42 | Remove Nth Node From End of List — 19                     | LeetCode, Medium            | https://leetcode.com/problems/remove-nth-node-from-end-of-list/                                     |
 |  43 | Swap Nodes in Pairs — 24                                  | LeetCode, Medium            | https://leetcode.com/problems/swap-nodes-in-pairs/                                                  |
 |  44 | Reverse Nodes in k-Group — 25                             | LeetCode, Hard              | https://leetcode.com/problems/reverse-nodes-in-k-group/                                             |
