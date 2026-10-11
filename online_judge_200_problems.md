@@ -130,7 +130,6 @@
 
 |   # | Problem                                               | Platform / difficulty               | Link                                                                          |
 | --: | ----------------------------------------------------- | ----------------------------------- | ----------------------------------------------------------------------------- |
-| 164 | Generate Parentheses — 22                             | LeetCode, Medium                    |                            |
 | 165 | Daily Temperatures — 739                              | LeetCode, Medium; duplicate of #35  | https://leetcode.com/problems/daily-temperatures/                             |
 | 167 | Next Greater Element II — 503                         | LeetCode, Medium                    | https://leetcode.com/problems/next-greater-element-ii/                        |
 | 168 | Largest Rectangle in Histogram — 84                   | LeetCode, Hard                      | https://leetcode.com/problems/largest-rectangle-in-histogram/                 |
@@ -146,7 +145,6 @@
 | 178 | Sum of Subarray Minimums — 907                        | LeetCode, Medium                    | https://leetcode.com/problems/sum-of-subarray-minimums/                       |
 | 179 | Remove Duplicate Letters — 316                        | LeetCode, Medium                    | https://leetcode.com/problems/remove-duplicate-letters/                       |
 | 180 | Shortest Unsorted Continuous Subarray — 581           | LeetCode, Medium                    | https://leetcode.com/problems/shortest-unsorted-continuous-subarray/          |
-| 181 | Validate Stack Sequences — 946                        | LeetCode, Medium                    | https://leetcode.com/problems/validate-stack-sequences/                       |
 | 182 | Simplify Path — 71                                    | LeetCode, Medium                    | https://leetcode.com/problems/simplify-path/                                  |
 | 183 | Score of Parentheses — 856                            | LeetCode, Medium                    | https://leetcode.com/problems/score-of-parentheses/                           |
 | 184 | Longest Valid Parentheses — 32                        | LeetCode, Hard                      | https://leetcode.com/problems/longest-valid-parentheses/                      |
