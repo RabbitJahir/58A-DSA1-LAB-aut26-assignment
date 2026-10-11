@@ -24,7 +24,6 @@
 |  18 | Pashmak and Flowers — 459B                | Codeforces, 1300      | https://codeforces.com/problemset/problem/459/B                    |
 |  19 | Jeff and Periods — 352B                   | Codeforces, 1300      | https://codeforces.com/problemset/problem/352/B                    |
 |  20 | Little Girl and Maximum Sum — 276C        | Codeforces, 1500      | https://codeforces.com/problemset/problem/276/C                    |
-|  21 | Maximum Subarray — 53                     | LeetCode, Medium      | https://leetcode.com/problems/maximum-subarray/                    |
 |  22 | Product of Array Except Self — 238        | LeetCode, Medium      | https://leetcode.com/problems/product-of-array-except-self/        |
 |  23 | Container With Most Water — 11            | LeetCode, Medium      | https://leetcode.com/problems/container-with-most-water/           |
 |  24 | 3Sum — 15                                 | LeetCode, Medium      | https://leetcode.com/problems/3sum/                                |
@@ -56,7 +55,6 @@
 |  47 | Rotate List — 61                                          | LeetCode, Medium            | https://leetcode.com/problems/rotate-list/                                                          |
 |  48 | Partition List — 86                                       | LeetCode, Medium            | https://leetcode.com/problems/partition-list/                                                       |
 |  49 | Reorder List — 143                                        | LeetCode, Medium            | https://leetcode.com/problems/reorder-list/                                                         |
-|  50 | Remove Duplicates from Sorted List II — 82                | LeetCode, Medium            | https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/                                |
 |  51 | Copy List with Random Pointer — 138                       | LeetCode, Medium            | https://leetcode.com/problems/copy-list-with-random-pointer/                                        |
 |  52 | Linked List Cycle II — 142                                | LeetCode, Medium            | https://leetcode.com/problems/linked-list-cycle-ii/                                                 |
 |  53 | Sort List — 148                                           | LeetCode, Medium            | https://leetcode.com/problems/sort-list/                                                            |
@@ -90,7 +88,6 @@
 |  82 | Spiral Matrix — 54                                                     | LeetCode, Medium                   | https://leetcode.com/problems/spiral-matrix/                                          |
 |  83 | Rotate Image — 48                                                      | LeetCode, Medium                   | https://leetcode.com/problems/rotate-image/                                           |
 |  84 | Word Search — 79                                                       | LeetCode, Medium                   | https://leetcode.com/problems/word-search/                                            |
-|  86 | Search a 2D Matrix II — 240                                            | LeetCode, Medium                   | https://leetcode.com/problems/search-a-2d-matrix-ii/                                  |
 |  87 | Number of Islands — 200                                                | LeetCode, Medium                   | https://leetcode.com/problems/number-of-islands/                                      |
 |  88 | Maximal Square — 221                                                   | LeetCode, Medium                   | https://leetcode.com/problems/maximal-square/                                         |
 |  89 | Unique Paths — 62                                                      | LeetCode, Medium                   | https://leetcode.com/problems/unique-paths/                                           |
@@ -167,7 +164,6 @@
 
 |   # | Problem                                               | Platform / difficulty               | Link                                                                          |
 | --: | ----------------------------------------------------- | ----------------------------------- | ----------------------------------------------------------------------------- |
-| 162 | Min Stack — 155                                       | LeetCode, Medium                    | https://leetcode.com/problems/min-stack/                                      |
 | 164 | Generate Parentheses — 22                             | LeetCode, Medium                    | https://leetcode.com/problems/generate-parentheses/                           |
 | 165 | Daily Temperatures — 739                              | LeetCode, Medium; duplicate of #35  | https://leetcode.com/problems/daily-temperatures/                             |
 | 166 | Next Greater Element I — 496                          | LeetCode, Easy prerequisite         | https://leetcode.com/problems/next-greater-element-i/                         |
