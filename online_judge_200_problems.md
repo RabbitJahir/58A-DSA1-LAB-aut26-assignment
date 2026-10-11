@@ -35,7 +35,6 @@
 |  32 | Merge Intervals — 56                      | LeetCode, Medium      | https://leetcode.com/problems/merge-intervals/                     |
 |  33 | Non-overlapping Intervals — 435           | LeetCode, Medium      | https://leetcode.com/problems/non-overlapping-intervals/           |
 |  34 | Find All Duplicates in an Array — 442     | LeetCode, Medium      | https://leetcode.com/problems/find-all-duplicates-in-an-array/     |
-|  35 | Daily Temperatures — 739                  | LeetCode, Medium      | https://leetcode.com/problems/daily-temperatures/                  |
 |  36 | Trapping Rain Water — 42                  | LeetCode, Hard        | https://leetcode.com/problems/trapping-rain-water/                 |
 |  37 | First Missing Positive — 41               | LeetCode, Hard        | https://leetcode.com/problems/first-missing-positive/              |
 |  38 | Sliding Window Maximum — 239              | LeetCode, Hard        | https://leetcode.com/problems/sliding-window-maximum/              |
@@ -55,7 +54,6 @@
 |  49 | Reorder List — 143                                        | LeetCode, Medium            | https://leetcode.com/problems/reorder-list/                                                         |
 |  51 | Copy List with Random Pointer — 138                       | LeetCode, Medium            | https://leetcode.com/problems/copy-list-with-random-pointer/                                        |
 |  52 | Linked List Cycle II — 142                                | LeetCode, Medium            | https://leetcode.com/problems/linked-list-cycle-ii/                                                 |
-|  53 | Sort List — 148                                           | LeetCode, Medium            | https://leetcode.com/problems/sort-list/                                                            |
 |  56 | Reverse Linked List II — 92                               | LeetCode, Medium            | https://leetcode.com/problems/reverse-linked-list-ii/                                               |
 |  57 | Remove Duplicates from Sorted List — 83                   | LeetCode, Easy prerequisite | https://leetcode.com/problems/remove-duplicates-from-sorted-list/                                   |
 |  58 | Odd Even Linked List — 328                                | LeetCode, Medium            | https://leetcode.com/problems/odd-even-linked-list/                                                 |
@@ -74,7 +72,6 @@
 |  75 | Critical Points in a Linked List — 2058                   | LeetCode, Medium            | https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/ |
 |  76 | Double a Number Represented as a Linked List — 2816       | LeetCode, Medium            | https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/                         |
 |  77 | Merge In Between Linked Lists — 1669                      | LeetCode, Medium            | https://leetcode.com/problems/merge-in-between-linked-lists/                                        |
-|  78 | Delete the Middle Node of a Linked List — 2095            | LeetCode, Medium            | https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/                              |
 
 ## 2D Matrices and Grids (81–120)
 
@@ -109,7 +106,6 @@
 | 110 | Kth Smallest Element in a Sorted Matrix — 378                          | LeetCode, Medium                   | https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/                |
 | 113 | Matrix Block Sum — 1314                                                | LeetCode, Medium                   | https://leetcode.com/problems/matrix-block-sum/                                       |
 | 114 | Range Sum Query 2D — Immutable — 304                                   | LeetCode, Medium                   | https://leetcode.com/problems/range-sum-query-2d-immutable/                           |
-| 115 | Largest 1-Bordered Square — 1139                                       | LeetCode, Medium                   | https://leetcode.com/problems/largest-1-bordered-square/                              |
 | 116 | Number of Submatrices That Sum to Target — 1074                        | LeetCode, Hard                     | https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/               |
 | 117 | Minimum Number of Flips to Convert Binary Matrix to Zero Matrix — 1284 | LeetCode, Hard                     | https://leetcode.com/problems/minimum-flips-to-convert-binary-matrix-to-zero-matrix/  |
 | 118 | Maximum Number of Moves in a Grid — 2684                               | LeetCode, Medium                   | https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/                      |
