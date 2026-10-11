@@ -40,7 +40,6 @@
 |  37 | First Missing Positive — 41               | LeetCode, Hard        | https://leetcode.com/problems/first-missing-positive/              |
 |  38 | Sliding Window Maximum — 239              | LeetCode, Hard        | https://leetcode.com/problems/sliding-window-maximum/              |
 |  39 | Count of Smaller Numbers After Self — 315 | LeetCode, Hard        | https://leetcode.com/problems/count-of-smaller-numbers-after-self/ |
-|  40 | Median of Two Sorted Arrays — 4           | LeetCode, Hard        | https://leetcode.com/problems/median-of-two-sorted-arrays/         |
 
 ## Linked Lists (41–80)
 
@@ -57,7 +56,6 @@
 |  51 | Copy List with Random Pointer — 138                       | LeetCode, Medium            | https://leetcode.com/problems/copy-list-with-random-pointer/                                        |
 |  52 | Linked List Cycle II — 142                                | LeetCode, Medium            | https://leetcode.com/problems/linked-list-cycle-ii/                                                 |
 |  53 | Sort List — 148                                           | LeetCode, Medium            | https://leetcode.com/problems/sort-list/                                                            |
-|  55 | Intersection of Two Linked Lists — 160                    | LeetCode, Easy prerequisite | https://leetcode.com/problems/intersection-of-two-linked-lists/                                     |
 |  56 | Reverse Linked List II — 92                               | LeetCode, Medium            | https://leetcode.com/problems/reverse-linked-list-ii/                                               |
 |  57 | Remove Duplicates from Sorted List — 83                   | LeetCode, Easy prerequisite | https://leetcode.com/problems/remove-duplicates-from-sorted-list/                                   |
 |  58 | Odd Even Linked List — 328                                | LeetCode, Medium            | https://leetcode.com/problems/odd-even-linked-list/                                                 |
@@ -77,8 +75,6 @@
 |  76 | Double a Number Represented as a Linked List — 2816       | LeetCode, Medium            | https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/                         |
 |  77 | Merge In Between Linked Lists — 1669                      | LeetCode, Medium            | https://leetcode.com/problems/merge-in-between-linked-lists/                                        |
 |  78 | Delete the Middle Node of a Linked List — 2095            | LeetCode, Medium            | https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/                              |
-|  79 | Maximum Twin Sum of a Linked List — 2130                  | LeetCode, Medium            | https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/                                    |
-|  80 | Reverse Nodes in Even Length Groups — 2074                | LeetCode, Medium            | https://leetcode.com/problems/reverse-nodes-in-even-length-groups/                                  |
 
 ## 2D Matrices and Grids (81–120)
 
