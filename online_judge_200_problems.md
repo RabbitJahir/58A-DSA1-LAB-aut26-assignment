@@ -7,7 +7,6 @@
 |   # | Problem                                   | Platform / difficulty | Link                                                               |
 | --: | ----------------------------------------- | --------------------- | ------------------------------------------------------------------ |
 |   1 | Three Parts of the Array — 1006C          | Codeforces, 1200      | https://codeforces.com/problemset/problem/1006/C                   |
-|   3 | Number of Pairs — 1538C                   | Codeforces, 1300      | https://codeforces.com/problemset/problem/1538/C                   |
 |   4 | Counting Pairs — 2051D                    | Codeforces, 1200      | https://codeforces.com/problemset/problem/2051/D                   |
 |   5 | Array Game — 1904C                        | Codeforces, 1400      | https://codeforces.com/problemset/problem/1904/C                   |
 |   6 | Trinity — 2032C                           | Codeforces, 1400      | https://codeforces.com/problemset/problem/2032/C                   |
@@ -15,9 +14,6 @@
 |   8 | Money Trees — 1873F                       | Codeforces, 1300      | https://codeforces.com/problemset/problem/1873/F                   |
 |   9 | Cat, Fox and the Lonely Array — 1973B     | Codeforces, 1300      | https://codeforces.com/problemset/problem/1973/B                   |
 |  12 | Accidental Victory — 1490E                | Codeforces, 1400      | https://codeforces.com/problemset/problem/1490/E                   |
-|  13 | Equalize — 1928B                          | Codeforces, 1200      | https://codeforces.com/problemset/problem/1928/B                   |
-|  14 | Vika and the Bridge — 1848B               | Codeforces, 1200      | https://codeforces.com/problemset/problem/1848/B                   |
-|  16 | Pursuit — 1530C                           | Codeforces, 1200      | https://codeforces.com/problemset/problem/1530/C                   |
 |  19 | Jeff and Periods — 352B                   | Codeforces, 1300      | https://codeforces.com/problemset/problem/352/B                    |
 |  20 | Little Girl and Maximum Sum — 276C        | Codeforces, 1500      | https://codeforces.com/problemset/problem/276/C                    |
 |  22 | Product of Array Except Self — 238        | LeetCode, Medium      | https://leetcode.com/problems/product-of-array-except-self/        |
@@ -42,7 +38,6 @@
 |  42 | Remove Nth Node From End of List — 19                     | LeetCode, Medium            | https://leetcode.com/problems/remove-nth-node-from-end-of-list/                                     |
 |  43 | Swap Nodes in Pairs — 24                                  | LeetCode, Medium            | https://leetcode.com/problems/swap-nodes-in-pairs/                                                  |
 |  44 | Reverse Nodes in k-Group — 25                             | LeetCode, Hard              | https://leetcode.com/problems/reverse-nodes-in-k-group/                                             |
-|  46 | Merge k Sorted Lists — 23                                 | LeetCode, Hard              | https://leetcode.com/problems/merge-k-sorted-lists/                                                 |
 |  47 | Rotate List — 61                                          | LeetCode, Medium            | https://leetcode.com/problems/rotate-list/                                                          |
 |  48 | Partition List — 86                                       | LeetCode, Medium            | https://leetcode.com/problems/partition-list/                                                       |
 |  49 | Reorder List — 143                                        | LeetCode, Medium            | https://leetcode.com/problems/reorder-list/                                                         |
@@ -51,7 +46,6 @@
 |  56 | Reverse Linked List II — 92                               | LeetCode, Medium            | https://leetcode.com/problems/reverse-linked-list-ii/                                               |
 |  58 | Odd Even Linked List — 328                                | LeetCode, Medium            | https://leetcode.com/problems/odd-even-linked-list/                                                 |
 |  59 | Flatten a Multilevel Doubly Linked List — 430             | LeetCode, Medium            | https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/                              |
-|  60 | Design Linked List — 707                                  | LeetCode, Medium            | https://leetcode.com/problems/design-linked-list/                                                   |
 |  61 | Design Browser History — 1472                             | LeetCode, Medium            | https://leetcode.com/problems/design-browser-history/                                               |
 |  62 | LRU Cache — 146                                           | LeetCode, Medium            | https://leetcode.com/problems/lru-cache/                                                            |
 |  63 | LFU Cache — 460                                           | LeetCode, Hard              | https://leetcode.com/problems/lfu-cache/                                                            |
@@ -75,14 +69,12 @@
 |  84 | Word Search — 79                                                       | LeetCode, Medium                   | https://leetcode.com/problems/word-search/                                            |
 |  87 | Number of Islands — 200                                                | LeetCode, Medium                   | https://leetcode.com/problems/number-of-islands/                                      |
 |  88 | Maximal Square — 221                                                   | LeetCode, Medium                   | https://leetcode.com/problems/maximal-square/                                         |
-|  89 | Unique Paths — 62                                                      | LeetCode, Medium                   | https://leetcode.com/problems/unique-paths/                                           |
 |  90 | Unique Paths II — 63                                                   | LeetCode, Medium                   | https://leetcode.com/problems/unique-paths-ii/                                        |
 |  91 | Minimum Path Sum — 64                                                  | LeetCode, Medium                   | https://leetcode.com/problems/minimum-path-sum/                                       |
 |  92 | Set Matrix Zeroes (in-place variant) — 73                              | LeetCode, Medium; duplicate of #81 | https://leetcode.com/problems/set-matrix-zeroes/                                      |
 |  93 | Game of Life — 289                                                     | LeetCode, Medium                   | https://leetcode.com/problems/game-of-life/                                           |
 |  94 | Surrounded Regions — 130                                               | LeetCode, Medium                   | https://leetcode.com/problems/surrounded-regions/                                     |
 |  95 | Pacific Atlantic Water Flow — 417                                      | LeetCode, Medium                   | https://leetcode.com/problems/pacific-atlantic-water-flow/                            |
-|  96 | 01 Matrix — 542                                                        | LeetCode, Medium                   | https://leetcode.com/problems/01-matrix/                                              |
 |  97 | Rotting Oranges — 994                                                  | LeetCode, Medium                   | https://leetcode.com/problems/rotting-oranges/                                        |
 |  98 | Shortest Path in Binary Matrix — 1091                                  | LeetCode, Medium                   | https://leetcode.com/problems/shortest-path-in-binary-matrix/                         |
 |  99 | As Far from Land as Possible — 1162                                    | LeetCode, Medium                   | https://leetcode.com/problems/as-far-from-land-as-possible/                           |
@@ -108,12 +100,9 @@
 
 |   # | Problem                                                      | Platform / difficulty               | Link                                                                                   |
 | --: | ------------------------------------------------------------ | ----------------------------------- | -------------------------------------------------------------------------------------- |
-| 123 | Vanya and Lanterns — 492B                                    | Codeforces, 1200                    | https://codeforces.com/problemset/problem/492/B                                        |
 | 125 | T-primes — 230B                                              | Codeforces, 1300                    | https://codeforces.com/problemset/problem/230/B                                        |
 | 128 | Binary Deque — 1692E                                         | Codeforces, 1200                    | https://codeforces.com/problemset/problem/1692/E                                       |
 | 129 | Poisoned Dagger — 1613C                                      | Codeforces, 1200                    | https://codeforces.com/problemset/problem/1613/C                                       |
-| 130 | The Strict Teacher (Hard Version) — 2005B2                   | Codeforces, 1200                    | https://codeforces.com/problemset/problem/2005/B2                                      |
-| 131 | Find the Different Ones! — 1927D                             | Codeforces, 1300                    | https://codeforces.com/problemset/problem/1927/D                                       |
 | 132 | Scoring Subsequences — 1794C                                 | Codeforces, 1300                    | https://codeforces.com/problemset/problem/1794/C                                       |
 | 133 | Jumping Through Segments — 1907D                             | Codeforces, 1400                    | https://codeforces.com/problemset/problem/1907/D                                       |
 | 134 | Wooden Toy Festival — 1840D                                  | Codeforces, 1400                    | https://codeforces.com/problemset/problem/1840/D                                       |
@@ -141,7 +130,7 @@
 
 |   # | Problem                                               | Platform / difficulty               | Link                                                                          |
 | --: | ----------------------------------------------------- | ----------------------------------- | ----------------------------------------------------------------------------- |
-| 164 | Generate Parentheses — 22                             | LeetCode, Medium                    | https://leetcode.com/problems/generate-parentheses/                           |
+| 164 | Generate Parentheses — 22                             | LeetCode, Medium                    |                            |
 | 165 | Daily Temperatures — 739                              | LeetCode, Medium; duplicate of #35  | https://leetcode.com/problems/daily-temperatures/                             |
 | 167 | Next Greater Element II — 503                         | LeetCode, Medium                    | https://leetcode.com/problems/next-greater-element-ii/                        |
 | 168 | Largest Rectangle in Histogram — 84                   | LeetCode, Hard                      | https://leetcode.com/problems/largest-rectangle-in-histogram/                 |
