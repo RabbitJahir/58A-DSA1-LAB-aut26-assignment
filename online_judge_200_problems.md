@@ -14,7 +14,6 @@
 |   7 | New Game — 2025C                          | Codeforces, 1300      | https://codeforces.com/problemset/problem/2025/C                   |
 |   8 | Money Trees — 1873F                       | Codeforces, 1300      | https://codeforces.com/problemset/problem/1873/F                   |
 |   9 | Cat, Fox and the Lonely Array — 1973B     | Codeforces, 1300      | https://codeforces.com/problemset/problem/1973/B                   |
-|  10 | Scuza — 1742E                             | Codeforces, 1200      | https://codeforces.com/problemset/problem/1742/E                   |
 |  12 | Accidental Victory — 1490E                | Codeforces, 1400      | https://codeforces.com/problemset/problem/1490/E                   |
 |  13 | Equalize — 1928B                          | Codeforces, 1200      | https://codeforces.com/problemset/problem/1928/B                   |
 |  14 | Vika and the Bridge — 1848B               | Codeforces, 1200      | https://codeforces.com/problemset/problem/1848/B                   |
