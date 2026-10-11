@@ -89,7 +89,6 @@
 
 |   # | Problem                                                                | Platform / difficulty              | Link                                                                                  |
 | --: | ---------------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------------------- |
-|  81 | Set Matrix Zeroes — 73                                                 | LeetCode, Medium                   |                                       |
 |  82 | Spiral Matrix — 54                                                     | LeetCode, Medium                   | https://leetcode.com/problems/spiral-matrix/                                          |
 |  83 | Rotate Image — 48                                                      | LeetCode, Medium                   | https://leetcode.com/problems/rotate-image/                                           |
 |  84 | Word Search — 79                                                       | LeetCode, Medium                   | https://leetcode.com/problems/word-search/                                            |
