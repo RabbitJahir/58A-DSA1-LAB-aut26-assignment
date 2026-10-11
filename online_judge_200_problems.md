@@ -1,6 +1,6 @@
 # 200 Online Judge Problems for DSA Coursework
 
-**Course requirements:** rating 1000+ / medium+, topics related to arrays, linked lists, 2D matrices, searching, and stacks.
+**Assignment requirements:** rating 1000+ / medium+, topics related to arrays, linked lists, 2D matrices, searching, and stacks.
 
 ## Arrays (1–40)
 
