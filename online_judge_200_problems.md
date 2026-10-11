@@ -32,7 +32,6 @@
 |  24 | 3Sum — 15                                 | LeetCode, Medium      | https://leetcode.com/problems/3sum/                                |
 |  25 | Subarray Sum Equals K — 560               | LeetCode, Medium      | https://leetcode.com/problems/subarray-sum-equals-k/               |
 |  26 | Maximum Product Subarray — 152            | LeetCode, Medium      | https://leetcode.com/problems/maximum-product-subarray/            |
-|  27 | Find the Duplicate Number — 287           | LeetCode, Medium      | https://leetcode.com/problems/find-the-duplicate-number/           |
 |  28 | Sort Colors — 75                          | LeetCode, Medium      | https://leetcode.com/problems/sort-colors/                         |
 |  29 | Next Permutation — 31                     | LeetCode, Medium      | https://leetcode.com/problems/next-permutation/                    |
 |  30 | Jump Game — 55                            | LeetCode, Medium      | https://leetcode.com/problems/jump-game/                           |
@@ -83,7 +82,6 @@
 |  70 | Add Two Numbers II — 445                                  | LeetCode, Medium            | https://leetcode.com/problems/add-two-numbers-ii/                                                   |
 |  71 | Split Linked List in Parts — 725                          | LeetCode, Medium            | https://leetcode.com/problems/split-linked-list-in-parts/                                           |
 |  72 | Next Greater Node In Linked List — 1019                   | LeetCode, Medium            | https://leetcode.com/problems/next-greater-node-in-linked-list/                                     |
-|  73 | Delete Node in a Linked List — 237                        | LeetCode, Medium            | https://leetcode.com/problems/delete-node-in-a-linked-list/                                         |
 |  74 | Remove Zero Sum Consecutive Nodes from Linked List — 1171 | LeetCode, Medium            | https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/                   |
 |  75 | Critical Points in a Linked List — 2058                   | LeetCode, Medium            | https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/ |
 |  76 | Double a Number Represented as a Linked List — 2816       | LeetCode, Medium            | https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/                         |
@@ -100,7 +98,7 @@
 |  82 | Spiral Matrix — 54                                                     | LeetCode, Medium                   | https://leetcode.com/problems/spiral-matrix/                                          |
 |  83 | Rotate Image — 48                                                      | LeetCode, Medium                   | https://leetcode.com/problems/rotate-image/                                           |
 |  84 | Word Search — 79                                                       | LeetCode, Medium                   | https://leetcode.com/problems/word-search/                                            |
-|  85 | Search a 2D Matrix — 74                                                | LeetCode, Medium                   | https://leetcode.com/problems/search-a-2d-matrix/                                     |
+|  85 | Search a 2D Matrix — 74                                                | LeetCode, Medium                   |                                      |
 |  86 | Search a 2D Matrix II — 240                                            | LeetCode, Medium                   | https://leetcode.com/problems/search-a-2d-matrix-ii/                                  |
 |  87 | Number of Islands — 200                                                | LeetCode, Medium                   | https://leetcode.com/problems/number-of-islands/                                      |
 |  88 | Maximal Square — 221                                                   | LeetCode, Medium                   | https://leetcode.com/problems/maximal-square/                                         |
@@ -141,7 +139,6 @@
 
 |   # | Problem                                                      | Platform / difficulty               | Link                                                                                   |
 | --: | ------------------------------------------------------------ | ----------------------------------- | -------------------------------------------------------------------------------------- |
-| 121 | Interesting Drink — 706B                                     | Codeforces, 1100                    | https://codeforces.com/problemset/problem/706/B                                        |
 | 122 | Worms — 474B                                                 | Codeforces, 1200                    | https://codeforces.com/problemset/problem/474/B                                        |
 | 123 | Vanya and Lanterns — 492B                                    | Codeforces, 1200                    | https://codeforces.com/problemset/problem/492/B                                        |
 | 124 | K-th Not Divisible by n — 1352C                              | Codeforces, 1200                    | https://codeforces.com/problemset/problem/1352/C                                       |
