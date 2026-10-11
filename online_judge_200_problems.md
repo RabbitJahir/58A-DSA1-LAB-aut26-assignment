@@ -37,7 +37,6 @@
 |  48 | Partition List — 86                                       | LeetCode, Medium            | https://leetcode.com/problems/partition-list/                                                       |
 |  49 | Reorder List — 143                                        | LeetCode, Medium            | https://leetcode.com/problems/reorder-list/                                                         |
 |  51 | Copy List with Random Pointer — 138                       | LeetCode, Medium            | https://leetcode.com/problems/copy-list-with-random-pointer/                                        |
-|  56 | Reverse Linked List II — 92                               | LeetCode, Medium            |                                                |
 |  59 | Flatten a Multilevel Doubly Linked List — 430             | LeetCode, Medium            | https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/                              |
 |  61 | Design Browser History — 1472                             | LeetCode, Medium            | https://leetcode.com/problems/design-browser-history/                                               |
 |  62 | LRU Cache — 146                                           | LeetCode, Medium            | https://leetcode.com/problems/lru-cache/                                                            |
@@ -54,16 +53,13 @@
 
 |   # | Problem                                                                | Platform / difficulty              | Link                                                                                  |
 | --: | ---------------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------------------- |
-|  83 | Rotate Image — 48                                                      | LeetCode, Medium                   |                                            |
 |  84 | Word Search — 79                                                       | LeetCode, Medium                   | https://leetcode.com/problems/word-search/                                            |
 |  88 | Maximal Square — 221                                                   | LeetCode, Medium                   | https://leetcode.com/problems/maximal-square/                                         |
 |  91 | Minimum Path Sum — 64                                                  | LeetCode, Medium                   | https://leetcode.com/problems/minimum-path-sum/                                       |
-|  92 | Set Matrix Zeroes (in-place variant) — 73                              | LeetCode, Medium; duplicate of #81 | https://leetcode.com/problems/set-matrix-zeroes/                                      |
 |  93 | Game of Life — 289                                                     | LeetCode, Medium                   | https://leetcode.com/problems/game-of-life/                                           |
 |  94 | Surrounded Regions — 130                                               | LeetCode, Medium                   | https://leetcode.com/problems/surrounded-regions/                                     |
 |  95 | Pacific Atlantic Water Flow — 417                                      | LeetCode, Medium                   | https://leetcode.com/problems/pacific-atlantic-water-flow/                            |
 |  97 | Rotting Oranges — 994                                                  | LeetCode, Medium                   | https://leetcode.com/problems/rotting-oranges/                                        |
-|  98 | Shortest Path in Binary Matrix — 1091                                  | LeetCode, Medium                   | https://leetcode.com/problems/shortest-path-in-binary-matrix/                         |
 |  99 | As Far from Land as Possible — 1162                                    | LeetCode, Medium                   | https://leetcode.com/problems/as-far-from-land-as-possible/                           |
 | 100 | Count Square Submatrices with All Ones — 1277                          | LeetCode, Medium                   | https://leetcode.com/problems/count-square-submatrices-with-all-ones/                 |
 | 101 | Longest Increasing Path in a Matrix — 329                              | LeetCode, Hard                     | https://leetcode.com/problems/longest-increasing-path-in-a-matrix/                    |
@@ -118,7 +114,6 @@
 | 169 | Maximal Rectangle — 85                                | LeetCode, Hard; duplicate of #102   | https://leetcode.com/problems/maximal-rectangle/                              |
 | 170 | Basic Calculator — 224                                | LeetCode, Hard                      | https://leetcode.com/problems/basic-calculator/                               |
 | 171 | Basic Calculator II — 227                             | LeetCode, Medium                    | https://leetcode.com/problems/basic-calculator-ii/                            |
-| 172 | Basic Calculator III — 772                            | LeetCode, Hard                      | https://leetcode.com/problems/basic-calculator-iii/                           |
 | 173 | Remove K Digits — 402                                 | LeetCode, Medium                    | https://leetcode.com/problems/remove-k-digits/                                |
 | 174 | Decode String — 394                                   | LeetCode, Medium                    | https://leetcode.com/problems/decode-string/                                  |
 | 175 | Asteroid Collision — 735                              | LeetCode, Medium                    | https://leetcode.com/problems/asteroid-collision/                             |
