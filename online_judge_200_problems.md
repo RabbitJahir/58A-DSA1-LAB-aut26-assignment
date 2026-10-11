@@ -14,8 +14,6 @@
 |   8 | Money Trees — 1873F                       | Codeforces, 1300      | https://codeforces.com/problemset/problem/1873/F                   |
 |   9 | Cat, Fox and the Lonely Array — 1973B     | Codeforces, 1300      | https://codeforces.com/problemset/problem/1973/B                   |
 |  12 | Accidental Victory — 1490E                | Codeforces, 1400      | https://codeforces.com/problemset/problem/1490/E                   |
-|  19 | Jeff and Periods — 352B                   | Codeforces, 1300      | https://codeforces.com/problemset/problem/352/B                    |
-|  20 | Little Girl and Maximum Sum — 276C        | Codeforces, 1500      | https://codeforces.com/problemset/problem/276/C                    |
 |  22 | Product of Array Except Self — 238        | LeetCode, Medium      | https://leetcode.com/problems/product-of-array-except-self/        |
 |  23 | Container With Most Water — 11            | LeetCode, Medium      | https://leetcode.com/problems/container-with-most-water/           |
 |  24 | 3Sum — 15                                 | LeetCode, Medium      | https://leetcode.com/problems/3sum/                                |
@@ -23,7 +21,6 @@
 |  29 | Next Permutation — 31                     | LeetCode, Medium      | https://leetcode.com/problems/next-permutation/                    |
 |  30 | Jump Game — 55                            | LeetCode, Medium      | https://leetcode.com/problems/jump-game/                           |
 |  31 | Insert Interval — 57                      | LeetCode, Medium      | https://leetcode.com/problems/insert-interval/                     |
-|  32 | Merge Intervals — 56                      | LeetCode, Medium      | https://leetcode.com/problems/merge-intervals/                     |
 |  33 | Non-overlapping Intervals — 435           | LeetCode, Medium      | https://leetcode.com/problems/non-overlapping-intervals/           |
 |  36 | Trapping Rain Water — 42                  | LeetCode, Hard        | https://leetcode.com/problems/trapping-rain-water/                 |
 |  37 | First Missing Positive — 41               | LeetCode, Hard        | https://leetcode.com/problems/first-missing-positive/              |
@@ -40,17 +37,12 @@
 |  48 | Partition List — 86                                       | LeetCode, Medium            | https://leetcode.com/problems/partition-list/                                                       |
 |  49 | Reorder List — 143                                        | LeetCode, Medium            | https://leetcode.com/problems/reorder-list/                                                         |
 |  51 | Copy List with Random Pointer — 138                       | LeetCode, Medium            | https://leetcode.com/problems/copy-list-with-random-pointer/                                        |
-|  52 | Linked List Cycle II — 142                                | LeetCode, Medium            | https://leetcode.com/problems/linked-list-cycle-ii/                                                 |
-|  56 | Reverse Linked List II — 92                               | LeetCode, Medium            | https://leetcode.com/problems/reverse-linked-list-ii/                                               |
-|  58 | Odd Even Linked List — 328                                | LeetCode, Medium            | https://leetcode.com/problems/odd-even-linked-list/                                                 |
+|  56 | Reverse Linked List II — 92                               | LeetCode, Medium            |                                                |
 |  59 | Flatten a Multilevel Doubly Linked List — 430             | LeetCode, Medium            | https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/                              |
 |  61 | Design Browser History — 1472                             | LeetCode, Medium            | https://leetcode.com/problems/design-browser-history/                                               |
 |  62 | LRU Cache — 146                                           | LeetCode, Medium            | https://leetcode.com/problems/lru-cache/                                                            |
 |  63 | LFU Cache — 460                                           | LeetCode, Hard              | https://leetcode.com/problems/lfu-cache/                                                            |
 |  64 | Design Circular Deque — 641                               | LeetCode, Medium            | https://leetcode.com/problems/design-circular-deque/                                                |
-|  65 | Design Circular Queue — 622                               | LeetCode, Medium            | https://leetcode.com/problems/design-circular-queue/                                                |
-|  67 | Palindrome Linked List — 234                              | LeetCode, Easy prerequisite | https://leetcode.com/problems/palindrome-linked-list/                                               |
-|  70 | Add Two Numbers II — 445                                  | LeetCode, Medium            | https://leetcode.com/problems/add-two-numbers-ii/                                                   |
 |  71 | Split Linked List in Parts — 725                          | LeetCode, Medium            | https://leetcode.com/problems/split-linked-list-in-parts/                                           |
 |  72 | Next Greater Node In Linked List — 1019                   | LeetCode, Medium            | https://leetcode.com/problems/next-greater-node-in-linked-list/                                     |
 |  74 | Remove Zero Sum Consecutive Nodes from Linked List — 1171 | LeetCode, Medium            | https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/                   |
@@ -64,9 +56,7 @@
 | --: | ---------------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------------------- |
 |  83 | Rotate Image — 48                                                      | LeetCode, Medium                   |                                            |
 |  84 | Word Search — 79                                                       | LeetCode, Medium                   | https://leetcode.com/problems/word-search/                                            |
-|  87 | Number of Islands — 200                                                | LeetCode, Medium                   | https://leetcode.com/problems/number-of-islands/                                      |
 |  88 | Maximal Square — 221                                                   | LeetCode, Medium                   | https://leetcode.com/problems/maximal-square/                                         |
-|  90 | Unique Paths II — 63                                                   | LeetCode, Medium                   | https://leetcode.com/problems/unique-paths-ii/                                        |
 |  91 | Minimum Path Sum — 64                                                  | LeetCode, Medium                   | https://leetcode.com/problems/minimum-path-sum/                                       |
 |  92 | Set Matrix Zeroes (in-place variant) — 73                              | LeetCode, Medium; duplicate of #81 | https://leetcode.com/problems/set-matrix-zeroes/                                      |
 |  93 | Game of Life — 289                                                     | LeetCode, Medium                   | https://leetcode.com/problems/game-of-life/                                           |
@@ -77,7 +67,6 @@
 |  99 | As Far from Land as Possible — 1162                                    | LeetCode, Medium                   | https://leetcode.com/problems/as-far-from-land-as-possible/                           |
 | 100 | Count Square Submatrices with All Ones — 1277                          | LeetCode, Medium                   | https://leetcode.com/problems/count-square-submatrices-with-all-ones/                 |
 | 101 | Longest Increasing Path in a Matrix — 329                              | LeetCode, Hard                     | https://leetcode.com/problems/longest-increasing-path-in-a-matrix/                    |
-| 102 | Maximal Rectangle — 85                                                 | LeetCode, Hard                     | https://leetcode.com/problems/maximal-rectangle/                                      |
 | 104 | Trapping Rain Water II — 407                                           | LeetCode, Hard                     | https://leetcode.com/problems/trapping-rain-water-ii/                                 |
 | 105 | Number of Closed Islands — 1254                                        | LeetCode, Medium                   | https://leetcode.com/problems/number-of-closed-islands/                               |
 | 106 | Number of Enclaves — 1020                                              | LeetCode, Medium                   | https://leetcode.com/problems/number-of-enclaves/                                     |
@@ -85,13 +74,10 @@
 | 108 | Where Will the Ball Fall — 1706                                        | LeetCode, Medium                   | https://leetcode.com/problems/where-will-the-ball-fall/                               |
 | 109 | Minimum Falling Path Sum — 931                                         | LeetCode, Medium                   | https://leetcode.com/problems/minimum-falling-path-sum/                               |
 | 110 | Kth Smallest Element in a Sorted Matrix — 378                          | LeetCode, Medium                   | https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/                |
-| 113 | Matrix Block Sum — 1314                                                | LeetCode, Medium                   | https://leetcode.com/problems/matrix-block-sum/                                       |
-| 114 | Range Sum Query 2D — Immutable — 304                                   | LeetCode, Medium                   | https://leetcode.com/problems/range-sum-query-2d-immutable/                           |
 | 116 | Number of Submatrices That Sum to Target — 1074                        | LeetCode, Hard                     | https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/               |
 | 117 | Minimum Number of Flips to Convert Binary Matrix to Zero Matrix — 1284 | LeetCode, Hard                     | https://leetcode.com/problems/minimum-flips-to-convert-binary-matrix-to-zero-matrix/  |
 | 118 | Maximum Number of Moves in a Grid — 2684                               | LeetCode, Medium                   | https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/                      |
 | 119 | Find the Safest Path in a Grid — 2812                                  | LeetCode, Medium                   | https://leetcode.com/problems/find-the-safest-path-in-a-grid/                         |
-| 120 | Minimum Cost to Make at Least One Valid Path in a Grid — 1368          | LeetCode, Hard                     | https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/ |
 
 ## Searching and Binary Search (121–160)
 
