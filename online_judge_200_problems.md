@@ -7,7 +7,6 @@
 |   # | Problem                                   | Platform / difficulty | Link                                                               |
 | --: | ----------------------------------------- | --------------------- | ------------------------------------------------------------------ |
 |   1 | Three Parts of the Array — 1006C          | Codeforces, 1200      | https://codeforces.com/problemset/problem/1006/C                   |
-|   2 | Books — 279B                              | Codeforces, 1400      | https://codeforces.com/problemset/problem/279/B                    |
 |   3 | Number of Pairs — 1538C                   | Codeforces, 1300      | https://codeforces.com/problemset/problem/1538/C                   |
 |   4 | Counting Pairs — 2051D                    | Codeforces, 1200      | https://codeforces.com/problemset/problem/2051/D                   |
 |   5 | Array Game — 1904C                        | Codeforces, 1400      | https://codeforces.com/problemset/problem/1904/C                   |
@@ -63,7 +62,6 @@
 |  51 | Copy List with Random Pointer — 138                       | LeetCode, Medium            | https://leetcode.com/problems/copy-list-with-random-pointer/                                        |
 |  52 | Linked List Cycle II — 142                                | LeetCode, Medium            | https://leetcode.com/problems/linked-list-cycle-ii/                                                 |
 |  53 | Sort List — 148                                           | LeetCode, Medium            | https://leetcode.com/problems/sort-list/                                                            |
-|  54 | Insertion Sort List — 147                                 | LeetCode, Medium            | https://leetcode.com/problems/insertion-sort-list/                                                  |
 |  55 | Intersection of Two Linked Lists — 160                    | LeetCode, Easy prerequisite | https://leetcode.com/problems/intersection-of-two-linked-lists/                                     |
 |  56 | Reverse Linked List II — 92                               | LeetCode, Medium            | https://leetcode.com/problems/reverse-linked-list-ii/                                               |
 |  57 | Remove Duplicates from Sorted List — 83                   | LeetCode, Easy prerequisite | https://leetcode.com/problems/remove-duplicates-from-sorted-list/                                   |
@@ -75,10 +73,8 @@
 |  63 | LFU Cache — 460                                           | LeetCode, Hard              | https://leetcode.com/problems/lfu-cache/                                                            |
 |  64 | Design Circular Deque — 641                               | LeetCode, Medium            | https://leetcode.com/problems/design-circular-deque/                                                |
 |  65 | Design Circular Queue — 622                               | LeetCode, Medium            | https://leetcode.com/problems/design-circular-queue/                                                |
-|  66 | Reverse Linked List — 206                                 | LeetCode, Easy prerequisite | https://leetcode.com/problems/reverse-linked-list/                                                  |
 |  67 | Palindrome Linked List — 234                              | LeetCode, Easy prerequisite | https://leetcode.com/problems/palindrome-linked-list/                                               |
-|  68 | Middle of the Linked List — 876                           | LeetCode, Easy prerequisite | https://leetcode.com/problems/middle-of-the-linked-list/                                            |
-|  69 | Linked List Cycle — 141                                   | LeetCode, Easy prerequisite | https://leetcode.com/problems/linked-list-cycle/                                                    |
+|  69 | Linked List Cycle — 141                                   | LeetCode, Easy prerequisite |                                                     |
 |  70 | Add Two Numbers II — 445                                  | LeetCode, Medium            | https://leetcode.com/problems/add-two-numbers-ii/                                                   |
 |  71 | Split Linked List in Parts — 725                          | LeetCode, Medium            | https://leetcode.com/problems/split-linked-list-in-parts/                                           |
 |  72 | Next Greater Node In Linked List — 1019                   | LeetCode, Medium            | https://leetcode.com/problems/next-greater-node-in-linked-list/                                     |
@@ -94,11 +90,10 @@
 
 |   # | Problem                                                                | Platform / difficulty              | Link                                                                                  |
 | --: | ---------------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------------------- |
-|  81 | Set Matrix Zeroes — 73                                                 | LeetCode, Medium                   | https://leetcode.com/problems/set-matrix-zeroes/                                      |
+|  81 | Set Matrix Zeroes — 73                                                 | LeetCode, Medium                   |                                       |
 |  82 | Spiral Matrix — 54                                                     | LeetCode, Medium                   | https://leetcode.com/problems/spiral-matrix/                                          |
 |  83 | Rotate Image — 48                                                      | LeetCode, Medium                   | https://leetcode.com/problems/rotate-image/                                           |
 |  84 | Word Search — 79                                                       | LeetCode, Medium                   | https://leetcode.com/problems/word-search/                                            |
-|  85 | Search a 2D Matrix — 74                                                | LeetCode, Medium                   |                                      |
 |  86 | Search a 2D Matrix II — 240                                            | LeetCode, Medium                   | https://leetcode.com/problems/search-a-2d-matrix-ii/                                  |
 |  87 | Number of Islands — 200                                                | LeetCode, Medium                   | https://leetcode.com/problems/number-of-islands/                                      |
 |  88 | Maximal Square — 221                                                   | LeetCode, Medium                   | https://leetcode.com/problems/maximal-square/                                         |
@@ -124,8 +119,6 @@
 | 108 | Where Will the Ball Fall — 1706                                        | LeetCode, Medium                   | https://leetcode.com/problems/where-will-the-ball-fall/                               |
 | 109 | Minimum Falling Path Sum — 931                                         | LeetCode, Medium                   | https://leetcode.com/problems/minimum-falling-path-sum/                               |
 | 110 | Kth Smallest Element in a Sorted Matrix — 378                          | LeetCode, Medium                   | https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/                |
-| 111 | Diagonal Traverse — 498                                                | LeetCode, Medium                   | https://leetcode.com/problems/diagonal-traverse/                                      |
-| 112 | Toeplitz Matrix — 766                                                  | LeetCode, Easy prerequisite        | https://leetcode.com/problems/toeplitz-matrix/                                        |
 | 113 | Matrix Block Sum — 1314                                                | LeetCode, Medium                   | https://leetcode.com/problems/matrix-block-sum/                                       |
 | 114 | Range Sum Query 2D — Immutable — 304                                   | LeetCode, Medium                   | https://leetcode.com/problems/range-sum-query-2d-immutable/                           |
 | 115 | Largest 1-Bordered Square — 1139                                       | LeetCode, Medium                   | https://leetcode.com/problems/largest-1-bordered-square/                              |
@@ -158,16 +151,11 @@
 | 138 | Slay the Dragon — 1574C                                      | Codeforces, 1300                    | https://codeforces.com/problemset/problem/1574/C                                       |
 | 139 | Number of Pairs — 1538C                                      | Codeforces, 1300; duplicate of #3   | https://codeforces.com/problemset/problem/1538/C                                       |
 | 140 | Equalize — 1928B                                             | Codeforces, 1200; duplicate of #13  | https://codeforces.com/problemset/problem/1928/B                                       |
-| 141 | Binary Search — 704A (LeetCode problem ID 704)               | LeetCode, Easy prerequisite         | https://leetcode.com/problems/binary-search/                                           |
 | 142 | Search in Rotated Sorted Array — 33                          | LeetCode, Medium                    | https://leetcode.com/problems/search-in-rotated-sorted-array/                          |
-| 143 | Find First and Last Position of Element in Sorted Array — 34 | LeetCode, Medium                    | https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ |
-| 144 | Search Insert Position — 35                                  | LeetCode, Easy prerequisite         | https://leetcode.com/problems/search-insert-position/                                  |
 | 145 | Find Minimum in Rotated Sorted Array — 153                   | LeetCode, Medium                    | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/                    |
 | 146 | Search in Rotated Sorted Array II — 81                       | LeetCode, Medium                    | https://leetcode.com/problems/search-in-rotated-sorted-array-ii/                       |
-| 147 | Find Peak Element — 162                                      | LeetCode, Medium                    | https://leetcode.com/problems/find-peak-element/                                       |
 | 148 | Koko Eating Bananas — 875                                    | LeetCode, Medium                    | https://leetcode.com/problems/koko-eating-bananas/                                     |
 | 149 | Capacity To Ship Packages Within D Days — 1011               | LeetCode, Medium                    | https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/                 |
-| 150 | Split Array Largest Sum — 410                                | LeetCode, Hard                      | https://leetcode.com/problems/split-array-largest-sum/                                 |
 | 151 | Median of Two Sorted Arrays — 4                              | LeetCode, Hard; duplicate of #40    | https://leetcode.com/problems/median-of-two-sorted-arrays/                             |
 | 152 | Find K-th Smallest Pair Distance — 719                       | LeetCode, Hard                      | https://leetcode.com/problems/find-k-th-smallest-pair-distance/                        |
 | 153 | Kth Smallest Element in a Sorted Matrix — 378                | LeetCode, Medium; duplicate of #110 | https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/                 |
@@ -183,9 +171,8 @@
 
 |   # | Problem                                               | Platform / difficulty               | Link                                                                          |
 | --: | ----------------------------------------------------- | ----------------------------------- | ----------------------------------------------------------------------------- |
-| 161 | Valid Parentheses — 20                                | LeetCode, Easy prerequisite         | https://leetcode.com/problems/valid-parentheses/                              |
 | 162 | Min Stack — 155                                       | LeetCode, Medium                    | https://leetcode.com/problems/min-stack/                                      |
-| 163 | Evaluate Reverse Polish Notation — 150                | LeetCode, Medium                    | https://leetcode.com/problems/evaluate-reverse-polish-notation/               |
+| 163 | Evaluate Reverse Polish Notation — 150                | LeetCode, Medium                    |                |
 | 164 | Generate Parentheses — 22                             | LeetCode, Medium                    | https://leetcode.com/problems/generate-parentheses/                           |
 | 165 | Daily Temperatures — 739                              | LeetCode, Medium; duplicate of #35  | https://leetcode.com/problems/daily-temperatures/                             |
 | 166 | Next Greater Element I — 496                          | LeetCode, Easy prerequisite         | https://leetcode.com/problems/next-greater-element-i/                         |
@@ -215,7 +202,6 @@
 | 190 | Remove All Adjacent Duplicates in String II — 1209    | LeetCode, Medium                    | https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/    |
 | 191 | Maximum Width Ramp — 962                              | LeetCode, Medium                    | https://leetcode.com/problems/maximum-width-ramp/                             |
 | 192 | Car Fleet — 853                                       | LeetCode, Medium                    | https://leetcode.com/problems/car-fleet/                                      |
-| 193 | Final Prices With a Special Discount in a Shop — 1475 | LeetCode, Easy prerequisite         | https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/ |
 | 194 | Steps to Make Array Non-decreasing — 2289             | LeetCode, Medium                    | https://leetcode.com/problems/steps-to-make-array-non-decreasing/             |
 | 195 | Maximum Number of Robots Within Budget — 2398         | LeetCode, Hard                      | https://leetcode.com/problems/maximum-number-of-robots-within-budget/         |
 | 196 | Parsing A Boolean Expression — 1106                   | LeetCode, Hard                      | https://leetcode.com/problems/parsing-a-boolean-expression/                   |
@@ -231,18 +217,6 @@
 - **PO2 (typical definition):** Analyze problems, constraints, and algorithmic complexity.
 - **PO3 (typical definition):** Design, implement, test, and evaluate a solution that meets requirements.
 
-Confirm the exact PO wording from your department's course outline.
-
-## Suggested assignment mix per student
-
-For a balanced four-problem assignment, choose:
-
-1. One array or searching problem.
-2. One linked-list problem.
-3. One 2D matrix/grid problem.
-4. One stack problem.
-
-For each solution, document the problem link, algorithm, data structure, time complexity, space complexity, code, and a few test cases.
 
 ## Online judges
 
