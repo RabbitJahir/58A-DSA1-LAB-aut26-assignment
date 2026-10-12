@@ -6,8 +6,6 @@
 
 |   # | Problem                                   | Platform / difficulty | Link                                                               |
 | --: | ----------------------------------------- | --------------------- | ------------------------------------------------------------------ |
-|   1 | Three Parts of the Array — 1006C          | Codeforces, 1200      | https://codeforces.com/problemset/problem/1006/C                   |
-|   4 | Counting Pairs — 2051D                    | Codeforces, 1200      | https://codeforces.com/problemset/problem/2051/D                   |
 |   5 | Array Game — 1904C                        | Codeforces, 1400      | https://codeforces.com/problemset/problem/1904/C                   |
 |   6 | Trinity — 2032C                           | Codeforces, 1400      | https://codeforces.com/problemset/problem/2032/C                   |
 |   7 | New Game — 2025C                          | Codeforces, 1300      | https://codeforces.com/problemset/problem/2025/C                   |
@@ -20,10 +18,8 @@
 |  25 | Subarray Sum Equals K — 560               | LeetCode, Medium      | https://leetcode.com/problems/subarray-sum-equals-k/               |
 |  29 | Next Permutation — 31                     | LeetCode, Medium      | https://leetcode.com/problems/next-permutation/                    |
 |  30 | Jump Game — 55                            | LeetCode, Medium      | https://leetcode.com/problems/jump-game/                           |
-|  31 | Insert Interval — 57                      | LeetCode, Medium      | https://leetcode.com/problems/insert-interval/                     |
 |  33 | Non-overlapping Intervals — 435           | LeetCode, Medium      | https://leetcode.com/problems/non-overlapping-intervals/           |
 |  36 | Trapping Rain Water — 42                  | LeetCode, Hard        | https://leetcode.com/problems/trapping-rain-water/                 |
-|  37 | First Missing Positive — 41               | LeetCode, Hard        | https://leetcode.com/problems/first-missing-positive/              |
 |  38 | Sliding Window Maximum — 239              | LeetCode, Hard        | https://leetcode.com/problems/sliding-window-maximum/              |
 |  39 | Count of Smaller Numbers After Self — 315 | LeetCode, Hard        | https://leetcode.com/problems/count-of-smaller-numbers-after-self/ |
 
@@ -33,7 +29,6 @@
 | --: | --------------------------------------------------------- | --------------------------- | --------------------------------------------------------------------------------------------------- |
 |  43 | Swap Nodes in Pairs — 24                                  | LeetCode, Medium            | https://leetcode.com/problems/swap-nodes-in-pairs/                                                  |
 |  44 | Reverse Nodes in k-Group — 25                             | LeetCode, Hard              | https://leetcode.com/problems/reverse-nodes-in-k-group/                                             |
-|  47 | Rotate List — 61                                          | LeetCode, Medium            | https://leetcode.com/problems/rotate-list/                                                          |
 |  48 | Partition List — 86                                       | LeetCode, Medium            | https://leetcode.com/problems/partition-list/                                                       |
 |  49 | Reorder List — 143                                        | LeetCode, Medium            | https://leetcode.com/problems/reorder-list/                                                         |
 |  51 | Copy List with Random Pointer — 138                       | LeetCode, Medium            | https://leetcode.com/problems/copy-list-with-random-pointer/                                        |
@@ -42,9 +37,7 @@
 |  62 | LRU Cache — 146                                           | LeetCode, Medium            | https://leetcode.com/problems/lru-cache/                                                            |
 |  63 | LFU Cache — 460                                           | LeetCode, Hard              | https://leetcode.com/problems/lfu-cache/                                                            |
 |  64 | Design Circular Deque — 641                               | LeetCode, Medium            | https://leetcode.com/problems/design-circular-deque/                                                |
-|  71 | Split Linked List in Parts — 725                          | LeetCode, Medium            | https://leetcode.com/problems/split-linked-list-in-parts/                                           |
 |  72 | Next Greater Node In Linked List — 1019                   | LeetCode, Medium            | https://leetcode.com/problems/next-greater-node-in-linked-list/                                     |
-|  74 | Remove Zero Sum Consecutive Nodes from Linked List — 1171 | LeetCode, Medium            | https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/                   |
 |  75 | Critical Points in a Linked List — 2058                   | LeetCode, Medium            | https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/ |
 |  76 | Double a Number Represented as a Linked List — 2816       | LeetCode, Medium            | https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/                         |
 |  77 | Merge In Between Linked Lists — 1669                      | LeetCode, Medium            | https://leetcode.com/problems/merge-in-between-linked-lists/                                        |
@@ -67,7 +60,6 @@
 | 105 | Number of Closed Islands — 1254                                        | LeetCode, Medium                   | https://leetcode.com/problems/number-of-closed-islands/                               |
 | 106 | Number of Enclaves — 1020                                              | LeetCode, Medium                   | https://leetcode.com/problems/number-of-enclaves/                                     |
 | 107 | Detect Cycles in 2D Grid — 1559                                        | LeetCode, Medium                   | https://leetcode.com/problems/detect-cycles-in-2d-grid/                               |
-| 108 | Where Will the Ball Fall — 1706                                        | LeetCode, Medium                   | https://leetcode.com/problems/where-will-the-ball-fall/                               |
 | 109 | Minimum Falling Path Sum — 931                                         | LeetCode, Medium                   | https://leetcode.com/problems/minimum-falling-path-sum/                               |
 | 110 | Kth Smallest Element in a Sorted Matrix — 378                          | LeetCode, Medium                   | https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/                |
 | 116 | Number of Submatrices That Sum to Target — 1074                        | LeetCode, Hard                     | https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/               |
@@ -80,7 +72,6 @@
 |   # | Problem                                                      | Platform / difficulty               | Link                                                                                   |
 | --: | ------------------------------------------------------------ | ----------------------------------- | -------------------------------------------------------------------------------------- |
 | 125 | T-primes — 230B                                              | Codeforces, 1300                    | https://codeforces.com/problemset/problem/230/B                                        |
-| 128 | Binary Deque — 1692E                                         | Codeforces, 1200                    | https://codeforces.com/problemset/problem/1692/E                                       |
 | 129 | Poisoned Dagger — 1613C                                      | Codeforces, 1200                    | https://codeforces.com/problemset/problem/1613/C                                       |
 | 132 | Scoring Subsequences — 1794C                                 | Codeforces, 1300                    | https://codeforces.com/problemset/problem/1794/C                                       |
 | 133 | Jumping Through Segments — 1907D                             | Codeforces, 1400                    | https://codeforces.com/problemset/problem/1907/D                                       |
@@ -94,11 +85,9 @@
 | 145 | Find Minimum in Rotated Sorted Array — 153                   | LeetCode, Medium                    | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/                    |
 | 146 | Search in Rotated Sorted Array II — 81                       | LeetCode, Medium                    | https://leetcode.com/problems/search-in-rotated-sorted-array-ii/                       |
 | 149 | Capacity To Ship Packages Within D Days — 1011               | LeetCode, Medium                    | https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/                 |
-| 151 | Median of Two Sorted Arrays — 4                              | LeetCode, Hard; duplicate of #40    | https://leetcode.com/problems/median-of-two-sorted-arrays/                             |
 | 152 | Find K-th Smallest Pair Distance — 719                       | LeetCode, Hard                      | https://leetcode.com/problems/find-k-th-smallest-pair-distance/                        |
 | 153 | Kth Smallest Element in a Sorted Matrix — 378                | LeetCode, Medium; duplicate of #110 | https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/                 |
 | 154 | Time Based Key-Value Store — 981                             | LeetCode, Medium                    | https://leetcode.com/problems/time-based-key-value-store/                              |
-| 155 | Search a 2D Matrix — 74                                      | LeetCode, Medium; duplicate of #85  | https://leetcode.com/problems/search-a-2d-matrix/                                      |
 | 157 | H-Index II — 275                                             | LeetCode, Medium                    | https://leetcode.com/problems/h-index-ii/                                              |
 | 158 | Find Right Interval — 436                                    | LeetCode, Medium                    | https://leetcode.com/problems/find-right-interval/                                     |
 | 159 | Maximum Value at a Given Index in a Bounded Array — 1802     | LeetCode, Medium                    | https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/       |
@@ -108,7 +97,6 @@
 
 |   # | Problem                                               | Platform / difficulty               | Link                                                                          |
 | --: | ----------------------------------------------------- | ----------------------------------- | ----------------------------------------------------------------------------- |
-| 165 | Daily Temperatures — 739                              | LeetCode, Medium; duplicate of #35  | https://leetcode.com/problems/daily-temperatures/                             |
 | 167 | Next Greater Element II — 503                         | LeetCode, Medium                    | https://leetcode.com/problems/next-greater-element-ii/                        |
 | 168 | Largest Rectangle in Histogram — 84                   | LeetCode, Hard                      | https://leetcode.com/problems/largest-rectangle-in-histogram/                 |
 | 169 | Maximal Rectangle — 85                                | LeetCode, Hard; duplicate of #102   | https://leetcode.com/problems/maximal-rectangle/                              |
