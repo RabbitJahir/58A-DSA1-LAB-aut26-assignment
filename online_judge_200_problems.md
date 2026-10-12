@@ -9,7 +9,6 @@
 |   5 | Array Game — 1904C                        | Codeforces, 1400      | https://codeforces.com/problemset/problem/1904/C                   |
 |   6 | Trinity — 2032C                           | Codeforces, 1400      | https://codeforces.com/problemset/problem/2032/C                   |
 |   7 | New Game — 2025C                          | Codeforces, 1300      | https://codeforces.com/problemset/problem/2025/C                   |
-|   8 | Money Trees — 1873F                       | Codeforces, 1300      | https://codeforces.com/problemset/problem/1873/F                   |
 |   9 | Cat, Fox and the Lonely Array — 1973B     | Codeforces, 1300      | https://codeforces.com/problemset/problem/1973/B                   |
 |  12 | Accidental Victory — 1490E                | Codeforces, 1400      | https://codeforces.com/problemset/problem/1490/E                   |
 |  23 | Container With Most Water — 11            | LeetCode, Medium      | https://leetcode.com/problems/container-with-most-water/           |
@@ -45,7 +44,7 @@
 |   # | Problem                                                                | Platform / difficulty | Link                                                                                 |
 | --: | ---------------------------------------------------------------------- | --------------------- | ------------------------------------------------------------------------------------ |
 |  88 | Maximal Square — 221                                                   | LeetCode, Medium      | https://leetcode.com/problems/maximal-square/                                        |
-|  91 | Minimum Path Sum — 64                                                  | LeetCode, Medium      | https://leetcode.com/problems/minimum-path-sum/                                      |
+|  91 | Minimum Path Sum — 64                                                  | LeetCode, Medium      |                                       |
 |  93 | Game of Life — 289                                                     | LeetCode, Medium      | https://leetcode.com/problems/game-of-life/                                          |
 |  94 | Surrounded Regions — 130                                               | LeetCode, Medium      | https://leetcode.com/problems/surrounded-regions/                                    |
 |  95 | Pacific Atlantic Water Flow — 417                                      | LeetCode, Medium      | https://leetcode.com/problems/pacific-atlantic-water-flow/                           |
@@ -57,7 +56,6 @@
 | 105 | Number of Closed Islands — 1254                                        | LeetCode, Medium      | https://leetcode.com/problems/number-of-closed-islands/                              |
 | 106 | Number of Enclaves — 1020                                              | LeetCode, Medium      | https://leetcode.com/problems/number-of-enclaves/                                    |
 | 107 | Detect Cycles in 2D Grid — 1559                                        | LeetCode, Medium      | https://leetcode.com/problems/detect-cycles-in-2d-grid/                              |
-| 109 | Minimum Falling Path Sum — 931                                         | LeetCode, Medium      | https://leetcode.com/problems/minimum-falling-path-sum/                              |
 | 110 | Kth Smallest Element in a Sorted Matrix — 378                          | LeetCode, Medium      | https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/               |
 | 116 | Number of Submatrices That Sum to Target — 1074                        | LeetCode, Hard        | https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/              |
 | 117 | Minimum Number of Flips to Convert Binary Matrix to Zero Matrix — 1284 | LeetCode, Hard        | https://leetcode.com/problems/minimum-flips-to-convert-binary-matrix-to-zero-matrix/ |
@@ -69,7 +67,6 @@
 |   # | Problem                                                  | Platform / difficulty               | Link                                                                             |
 | --: | -------------------------------------------------------- | ----------------------------------- | -------------------------------------------------------------------------------- |
 | 129 | Poisoned Dagger — 1613C                                  | Codeforces, 1200                    | https://codeforces.com/problemset/problem/1613/C                                 |
-| 132 | Scoring Subsequences — 1794C                             | Codeforces, 1300                    | https://codeforces.com/problemset/problem/1794/C                                 |
 | 133 | Jumping Through Segments — 1907D                         | Codeforces, 1400                    | https://codeforces.com/problemset/problem/1907/D                                 |
 | 134 | Wooden Toy Festival — 1840D                              | Codeforces, 1400                    | https://codeforces.com/problemset/problem/1840/D                                 |
 | 135 | Place for a Selfie — 1805C                               | Codeforces, 1400                    | https://codeforces.com/problemset/problem/1805/C                                 |
@@ -77,7 +74,6 @@
 | 137 | Array Game — 1904C                                       | Codeforces, 1400; duplicate of #5   | https://codeforces.com/problemset/problem/1904/C                                 |
 | 138 | Slay the Dragon — 1574C                                  | Codeforces, 1300                    | https://codeforces.com/problemset/problem/1574/C                                 |
 | 139 | Number of Pairs — 1538C                                  | Codeforces, 1300; duplicate of #3   | https://codeforces.com/problemset/problem/1538/C                                 |
-| 140 | Equalize — 1928B                                         | Codeforces, 1200; duplicate of #13  | https://codeforces.com/problemset/problem/1928/B                                 |
 | 145 | Find Minimum in Rotated Sorted Array — 153               | LeetCode, Medium                    | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/              |
 | 146 | Search in Rotated Sorted Array II — 81                   | LeetCode, Medium                    | https://leetcode.com/problems/search-in-rotated-sorted-array-ii/                 |
 | 149 | Capacity To Ship Packages Within D Days — 1011           | LeetCode, Medium                    | https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/           |
