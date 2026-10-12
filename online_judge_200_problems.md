@@ -12,7 +12,6 @@
 |   8 | Money Trees — 1873F                       | Codeforces, 1300      | https://codeforces.com/problemset/problem/1873/F                   |
 |   9 | Cat, Fox and the Lonely Array — 1973B     | Codeforces, 1300      | https://codeforces.com/problemset/problem/1973/B                   |
 |  12 | Accidental Victory — 1490E                | Codeforces, 1400      | https://codeforces.com/problemset/problem/1490/E                   |
-|  22 | Product of Array Except Self — 238        | LeetCode, Medium      | https://leetcode.com/problems/product-of-array-except-self/        |
 |  23 | Container With Most Water — 11            | LeetCode, Medium      | https://leetcode.com/problems/container-with-most-water/           |
 |  24 | 3Sum — 15                                 | LeetCode, Medium      | https://leetcode.com/problems/3sum/                                |
 |  25 | Subarray Sum Equals K — 560               | LeetCode, Medium      | https://leetcode.com/problems/subarray-sum-equals-k/               |
@@ -27,7 +26,6 @@
 
 |   # | Problem                                                   | Platform / difficulty       | Link                                                                                                |
 | --: | --------------------------------------------------------- | --------------------------- | --------------------------------------------------------------------------------------------------- |
-|  43 | Swap Nodes in Pairs — 24                                  | LeetCode, Medium            | https://leetcode.com/problems/swap-nodes-in-pairs/                                                  |
 |  44 | Reverse Nodes in k-Group — 25                             | LeetCode, Hard              | https://leetcode.com/problems/reverse-nodes-in-k-group/                                             |
 |  48 | Partition List — 86                                       | LeetCode, Medium            | https://leetcode.com/problems/partition-list/                                                       |
 |  49 | Reorder List — 143                                        | LeetCode, Medium            | https://leetcode.com/problems/reorder-list/                                                         |
@@ -71,7 +69,6 @@
 
 |   # | Problem                                                      | Platform / difficulty               | Link                                                                                   |
 | --: | ------------------------------------------------------------ | ----------------------------------- | -------------------------------------------------------------------------------------- |
-| 125 | T-primes — 230B                                              | Codeforces, 1300                    | https://codeforces.com/problemset/problem/230/B                                        |
 | 129 | Poisoned Dagger — 1613C                                      | Codeforces, 1200                    | https://codeforces.com/problemset/problem/1613/C                                       |
 | 132 | Scoring Subsequences — 1794C                                 | Codeforces, 1300                    | https://codeforces.com/problemset/problem/1794/C                                       |
 | 133 | Jumping Through Segments — 1907D                             | Codeforces, 1400                    | https://codeforces.com/problemset/problem/1907/D                                       |
@@ -97,7 +94,6 @@
 
 |   # | Problem                                               | Platform / difficulty               | Link                                                                          |
 | --: | ----------------------------------------------------- | ----------------------------------- | ----------------------------------------------------------------------------- |
-| 167 | Next Greater Element II — 503                         | LeetCode, Medium                    | https://leetcode.com/problems/next-greater-element-ii/                        |
 | 168 | Largest Rectangle in Histogram — 84                   | LeetCode, Hard                      | https://leetcode.com/problems/largest-rectangle-in-histogram/                 |
 | 169 | Maximal Rectangle — 85                                | LeetCode, Hard; duplicate of #102   | https://leetcode.com/problems/maximal-rectangle/                              |
 | 170 | Basic Calculator — 224                                | LeetCode, Hard                      | https://leetcode.com/problems/basic-calculator/                               |
@@ -110,7 +106,6 @@
 | 178 | Sum of Subarray Minimums — 907                        | LeetCode, Medium                    | https://leetcode.com/problems/sum-of-subarray-minimums/                       |
 | 179 | Remove Duplicate Letters — 316                        | LeetCode, Medium                    | https://leetcode.com/problems/remove-duplicate-letters/                       |
 | 180 | Shortest Unsorted Continuous Subarray — 581           | LeetCode, Medium                    | https://leetcode.com/problems/shortest-unsorted-continuous-subarray/          |
-| 182 | Simplify Path — 71                                    | LeetCode, Medium                    | https://leetcode.com/problems/simplify-path/                                  |
 | 184 | Longest Valid Parentheses — 32                        | LeetCode, Hard                      | https://leetcode.com/problems/longest-valid-parentheses/                      |
 | 185 | Trapping Rain Water — 42                              | LeetCode, Hard; duplicate of #36    | https://leetcode.com/problems/trapping-rain-water/                            |
 | 186 | Maximum Frequency Stack — 895                         | LeetCode, Hard                      | https://leetcode.com/problems/maximum-frequency-stack/                        |
