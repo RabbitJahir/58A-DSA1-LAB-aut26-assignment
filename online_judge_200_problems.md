@@ -17,7 +17,6 @@
 |  29 | Next Permutation — 31                     | LeetCode, Medium      | https://leetcode.com/problems/next-permutation/                    |
 |  30 | Jump Game — 55                            | LeetCode, Medium      | https://leetcode.com/problems/jump-game/                           |
 |  33 | Non-overlapping Intervals — 435           | LeetCode, Medium      | https://leetcode.com/problems/non-overlapping-intervals/           |
-|  36 | Trapping Rain Water — 42                  | LeetCode, Hard        | https://leetcode.com/problems/trapping-rain-water/                 |
 |  38 | Sliding Window Maximum — 239              | LeetCode, Hard        | https://leetcode.com/problems/sliding-window-maximum/              |
 |  39 | Count of Smaller Numbers After Self — 315 | LeetCode, Hard        | https://leetcode.com/problems/count-of-smaller-numbers-after-self/ |
 
@@ -25,7 +24,6 @@
 
 |   # | Problem                                             | Platform / difficulty | Link                                                                                                |
 | --: | --------------------------------------------------- | --------------------- | --------------------------------------------------------------------------------------------------- |
-|  44 | Reverse Nodes in k-Group — 25                       | LeetCode, Hard        | https://leetcode.com/problems/reverse-nodes-in-k-group/                                             |
 |  48 | Partition List — 86                                 | LeetCode, Medium      | https://leetcode.com/problems/partition-list/                                                       |
 |  49 | Reorder List — 143                                  | LeetCode, Medium      | https://leetcode.com/problems/reorder-list/                                                         |
 |  51 | Copy List with Random Pointer — 138                 | LeetCode, Medium      | https://leetcode.com/problems/copy-list-with-random-pointer/                                        |
@@ -44,14 +42,12 @@
 |   # | Problem                                                                | Platform / difficulty | Link                                                                                 |
 | --: | ---------------------------------------------------------------------- | --------------------- | ------------------------------------------------------------------------------------ |
 |  88 | Maximal Square — 221                                                   | LeetCode, Medium      | https://leetcode.com/problems/maximal-square/                                        |
-|  91 | Minimum Path Sum — 64                                                  | LeetCode, Medium      |                                       |
 |  93 | Game of Life — 289                                                     | LeetCode, Medium      | https://leetcode.com/problems/game-of-life/                                          |
 |  94 | Surrounded Regions — 130                                               | LeetCode, Medium      | https://leetcode.com/problems/surrounded-regions/                                    |
 |  95 | Pacific Atlantic Water Flow — 417                                      | LeetCode, Medium      | https://leetcode.com/problems/pacific-atlantic-water-flow/                           |
 |  97 | Rotting Oranges — 994                                                  | LeetCode, Medium      | https://leetcode.com/problems/rotting-oranges/                                       |
 |  99 | As Far from Land as Possible — 1162                                    | LeetCode, Medium      | https://leetcode.com/problems/as-far-from-land-as-possible/                          |
 | 100 | Count Square Submatrices with All Ones — 1277                          | LeetCode, Medium      | https://leetcode.com/problems/count-square-submatrices-with-all-ones/                |
-| 101 | Longest Increasing Path in a Matrix — 329                              | LeetCode, Hard        | https://leetcode.com/problems/longest-increasing-path-in-a-matrix/                   |
 | 104 | Trapping Rain Water II — 407                                           | LeetCode, Hard        | https://leetcode.com/problems/trapping-rain-water-ii/                                |
 | 105 | Number of Closed Islands — 1254                                        | LeetCode, Medium      | https://leetcode.com/problems/number-of-closed-islands/                              |
 | 106 | Number of Enclaves — 1020                                              | LeetCode, Medium      | https://leetcode.com/problems/number-of-enclaves/                                    |
@@ -73,7 +69,6 @@
 | 136 | Schedule Management — 1701C                              | Codeforces, 1400                    | https://codeforces.com/problemset/problem/1701/C                                 |
 | 137 | Array Game — 1904C                                       | Codeforces, 1400; duplicate of #5   | https://codeforces.com/problemset/problem/1904/C                                 |
 | 138 | Slay the Dragon — 1574C                                  | Codeforces, 1300                    | https://codeforces.com/problemset/problem/1574/C                                 |
-| 139 | Number of Pairs — 1538C                                  | Codeforces, 1300; duplicate of #3   | https://codeforces.com/problemset/problem/1538/C                                 |
 | 145 | Find Minimum in Rotated Sorted Array — 153               | LeetCode, Medium                    | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/              |
 | 146 | Search in Rotated Sorted Array II — 81                   | LeetCode, Medium                    | https://leetcode.com/problems/search-in-rotated-sorted-array-ii/                 |
 | 149 | Capacity To Ship Packages Within D Days — 1011           | LeetCode, Medium                    | https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/           |
@@ -89,9 +84,7 @@
 
 |   # | Problem                                              | Platform / difficulty               | Link                                                                       |
 | --: | ---------------------------------------------------- | ----------------------------------- | -------------------------------------------------------------------------- |
-| 168 | Largest Rectangle in Histogram — 84                  | LeetCode, Hard                      | https://leetcode.com/problems/largest-rectangle-in-histogram/              |
 | 169 | Maximal Rectangle — 85                               | LeetCode, Hard; duplicate of #102   | https://leetcode.com/problems/maximal-rectangle/                           |
-| 170 | Basic Calculator — 224                               | LeetCode, Hard                      | https://leetcode.com/problems/basic-calculator/                            |
 | 171 | Basic Calculator II — 227                            | LeetCode, Medium                    | https://leetcode.com/problems/basic-calculator-ii/                         |
 | 173 | Remove K Digits — 402                                | LeetCode, Medium                    | https://leetcode.com/problems/remove-k-digits/                             |
 | 174 | Decode String — 394                                  | LeetCode, Medium                    | https://leetcode.com/problems/decode-string/                               |
