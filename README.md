@@ -1,4 +1,4 @@
-### Link to webpage: https://rabbitjahir.github.io/dsaI-assignment/
+### Link to webpage: https://rabbitjahir.github.io/58A-DSA1-LAB-aut26-assingment/
 
 --- 
 
