@@ -4,7 +4,7 @@
 
 ### Course Title: Data Structure and Algorithms 1 Lab
 
-### Course code: 0613212 
+### Course code: CSE0613212 
 
 ### Course teachers: 
 - Md. Azharul Karim Chowdhury Anik
