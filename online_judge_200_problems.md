@@ -11,7 +11,6 @@
 |   7 | New Game — 2025C                          | Codeforces, 1300      | https://codeforces.com/problemset/problem/2025/C                   |
 |   9 | Cat, Fox and the Lonely Array — 1973B     | Codeforces, 1300      | https://codeforces.com/problemset/problem/1973/B                   |
 |  12 | Accidental Victory — 1490E                | Codeforces, 1400      | https://codeforces.com/problemset/problem/1490/E                   |
-|  23 | Container With Most Water — 11            | LeetCode, Medium      | https://leetcode.com/problems/container-with-most-water/           |
 |  24 | 3Sum — 15                                 | LeetCode, Medium      | https://leetcode.com/problems/3sum/                                |
 |  25 | Subarray Sum Equals K — 560               | LeetCode, Medium      | https://leetcode.com/problems/subarray-sum-equals-k/               |
 |  29 | Next Permutation — 31                     | LeetCode, Medium      | https://leetcode.com/problems/next-permutation/                    |
@@ -24,7 +23,6 @@
 |   # | Problem                                             | Platform / difficulty | Link                                                                                                |
 | --: | --------------------------------------------------- | --------------------- | --------------------------------------------------------------------------------------------------- |
 |  48 | Partition List — 86                                 | LeetCode, Medium      | https://leetcode.com/problems/partition-list/                                                       |
-|  49 | Reorder List — 143                                  | LeetCode, Medium      | https://leetcode.com/problems/reorder-list/                                                         |
 |  51 | Copy List with Random Pointer — 138                 | LeetCode, Medium      | https://leetcode.com/problems/copy-list-with-random-pointer/                                        |
 |  59 | Flatten a Multilevel Doubly Linked List — 430       | LeetCode, Medium      | https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/                              |
 |  61 | Design Browser History — 1472                       | LeetCode, Medium      | https://leetcode.com/problems/design-browser-history/                                               |
@@ -44,7 +42,6 @@
 |  93 | Game of Life — 289                                                     | LeetCode, Medium      | https://leetcode.com/problems/game-of-life/                                          |
 |  94 | Surrounded Regions — 130                                               | LeetCode, Medium      | https://leetcode.com/problems/surrounded-regions/                                    |
 |  95 | Pacific Atlantic Water Flow — 417                                      | LeetCode, Medium      | https://leetcode.com/problems/pacific-atlantic-water-flow/                           |
-|  97 | Rotting Oranges — 994                                                  | LeetCode, Medium      | https://leetcode.com/problems/rotting-oranges/                                       |
 |  99 | As Far from Land as Possible — 1162                                    | LeetCode, Medium      | https://leetcode.com/problems/as-far-from-land-as-possible/                          |
 | 100 | Count Square Submatrices with All Ones — 1277                          | LeetCode, Medium      | https://leetcode.com/problems/count-square-submatrices-with-all-ones/                |
 | 104 | Trapping Rain Water II — 407                                           | LeetCode, Hard        | https://leetcode.com/problems/trapping-rain-water-ii/                                |
@@ -68,7 +65,6 @@
 | 136 | Schedule Management — 1701C                              | Codeforces, 1400                    | https://codeforces.com/problemset/problem/1701/C                                 |
 | 137 | Array Game — 1904C                                       | Codeforces, 1400; duplicate of #5   | https://codeforces.com/problemset/problem/1904/C                                 |
 | 138 | Slay the Dragon — 1574C                                  | Codeforces, 1300                    | https://codeforces.com/problemset/problem/1574/C                                 |
-| 145 | Find Minimum in Rotated Sorted Array — 153               | LeetCode, Medium                    | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/              |
 | 146 | Search in Rotated Sorted Array II — 81                   | LeetCode, Medium                    | https://leetcode.com/problems/search-in-rotated-sorted-array-ii/                 |
 | 149 | Capacity To Ship Packages Within D Days — 1011           | LeetCode, Medium                    | https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/           |
 | 152 | Find K-th Smallest Pair Distance — 719                   | LeetCode, Hard                      | https://leetcode.com/problems/find-k-th-smallest-pair-distance/                  |
