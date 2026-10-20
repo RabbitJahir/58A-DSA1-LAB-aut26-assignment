@@ -15,7 +15,6 @@
 |  24 | 3Sum — 15                                 | LeetCode, Medium      | https://leetcode.com/problems/3sum/                                |
 |  25 | Subarray Sum Equals K — 560               | LeetCode, Medium      | https://leetcode.com/problems/subarray-sum-equals-k/               |
 |  29 | Next Permutation — 31                     | LeetCode, Medium      | https://leetcode.com/problems/next-permutation/                    |
-|  30 | Jump Game — 55                            | LeetCode, Medium      | https://leetcode.com/problems/jump-game/                           |
 |  33 | Non-overlapping Intervals — 435           | LeetCode, Medium      | https://leetcode.com/problems/non-overlapping-intervals/           |
 |  38 | Sliding Window Maximum — 239              | LeetCode, Hard        | https://leetcode.com/problems/sliding-window-maximum/              |
 |  39 | Count of Smaller Numbers After Self — 315 | LeetCode, Hard        | https://leetcode.com/problems/count-of-smaller-numbers-after-self/ |
