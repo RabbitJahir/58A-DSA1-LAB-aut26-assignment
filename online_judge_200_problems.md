@@ -12,7 +12,6 @@
 |  29 | Next Permutation — 31                     | LeetCode, Medium      | https://leetcode.com/problems/next-permutation/                    |
 |  33 | Non-overlapping Intervals — 435           | LeetCode, Medium      | https://leetcode.com/problems/non-overlapping-intervals/           |
 |  38 | Sliding Window Maximum — 239              | LeetCode, Hard        | https://leetcode.com/problems/sliding-window-maximum/              |
-|  39 | Count of Smaller Numbers After Self — 315 | LeetCode, Hard        | https://leetcode.com/problems/count-of-smaller-numbers-after-self/ |
 
 ## Linked Lists (41–80)
 
@@ -22,7 +21,6 @@
 |  59 | Flatten a Multilevel Doubly Linked List — 430       | LeetCode, Medium      | https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/                              |
 |  62 | LRU Cache — 146                                     | LeetCode, Medium      | https://leetcode.com/problems/lru-cache/                                                            |
 |  63 | LFU Cache — 460                                     | LeetCode, Hard        | https://leetcode.com/problems/lfu-cache/                                                            |
-|  64 | Design Circular Deque — 641                         | LeetCode, Medium      | https://leetcode.com/problems/design-circular-deque/                                                |
 |  72 | Next Greater Node In Linked List — 1019             | LeetCode, Medium      | https://leetcode.com/problems/next-greater-node-in-linked-list/                                     |
 |  75 | Critical Points in a Linked List — 2058             | LeetCode, Medium      | https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/ |
 |  77 | Merge In Between Linked Lists — 1669                | LeetCode, Medium      | https://leetcode.com/problems/merge-in-between-linked-lists/                                        |
@@ -39,7 +37,6 @@
 | 105 | Number of Closed Islands — 1254                                        | LeetCode, Medium      | https://leetcode.com/problems/number-of-closed-islands/                              |
 | 106 | Number of Enclaves — 1020                                              | LeetCode, Medium      | https://leetcode.com/problems/number-of-enclaves/                                    |
 | 107 | Detect Cycles in 2D Grid — 1559                                        | LeetCode, Medium      | https://leetcode.com/problems/detect-cycles-in-2d-grid/                              |
-| 110 | Kth Smallest Element in a Sorted Matrix — 378                          | LeetCode, Medium      | https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/               |
 | 116 | Number of Submatrices That Sum to Target — 1074                        | LeetCode, Hard        | https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/              |
 | 117 | Minimum Number of Flips to Convert Binary Matrix to Zero Matrix — 1284 | LeetCode, Hard        | https://leetcode.com/problems/minimum-flips-to-convert-binary-matrix-to-zero-matrix/ |
 | 118 | Maximum Number of Moves in a Grid — 2684                               | LeetCode, Medium      | https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/                     |
@@ -90,7 +87,6 @@
 | 197 | Exclusive Time of Functions — 636                    | LeetCode, Medium                    | https://leetcode.com/problems/exclusive-time-of-functions/                 |
 | 198 | Flatten Nested List Iterator — 341                   | LeetCode, Medium                    | https://leetcode.com/problems/flatten-nested-list-iterator/                |
 | 199 | Design Browser History — 1472                        | LeetCode, Medium; duplicate of #61  | https://leetcode.com/problems/design-browser-history/                      |
-| 200 | 132 Pattern (alternative stack-based solution) — 456 | LeetCode, Medium; duplicate of #177 | https://leetcode.com/problems/132-pattern/                                 |
 
 ## Course-outcome mapping
 
