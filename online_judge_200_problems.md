@@ -8,9 +8,7 @@
 | --: | ----------------------------------------- | --------------------- | ------------------------------------------------------------------ |
 |   5 | Array Game — 1904C                        | Codeforces, 1400      | https://codeforces.com/problemset/problem/1904/C                   |
 |   6 | Trinity — 2032C                           | Codeforces, 1400      | https://codeforces.com/problemset/problem/2032/C                   |
-|   7 | New Game — 2025C                          | Codeforces, 1300      | https://codeforces.com/problemset/problem/2025/C                   |
 |   9 | Cat, Fox and the Lonely Array — 1973B     | Codeforces, 1300      | https://codeforces.com/problemset/problem/1973/B                   |
-|  12 | Accidental Victory — 1490E                | Codeforces, 1400      | https://codeforces.com/problemset/problem/1490/E                   |
 |  24 | 3Sum — 15                                 | LeetCode, Medium      | https://leetcode.com/problems/3sum/                                |
 |  25 | Subarray Sum Equals K — 560               | LeetCode, Medium      | https://leetcode.com/problems/subarray-sum-equals-k/               |
 |  29 | Next Permutation — 31                     | LeetCode, Medium      | https://leetcode.com/problems/next-permutation/                    |
@@ -25,13 +23,11 @@
 |  48 | Partition List — 86                                 | LeetCode, Medium      | https://leetcode.com/problems/partition-list/                                                       |
 |  51 | Copy List with Random Pointer — 138                 | LeetCode, Medium      | https://leetcode.com/problems/copy-list-with-random-pointer/                                        |
 |  59 | Flatten a Multilevel Doubly Linked List — 430       | LeetCode, Medium      | https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/                              |
-|  61 | Design Browser History — 1472                       | LeetCode, Medium      | https://leetcode.com/problems/design-browser-history/                                               |
 |  62 | LRU Cache — 146                                     | LeetCode, Medium      | https://leetcode.com/problems/lru-cache/                                                            |
 |  63 | LFU Cache — 460                                     | LeetCode, Hard        | https://leetcode.com/problems/lfu-cache/                                                            |
 |  64 | Design Circular Deque — 641                         | LeetCode, Medium      | https://leetcode.com/problems/design-circular-deque/                                                |
 |  72 | Next Greater Node In Linked List — 1019             | LeetCode, Medium      | https://leetcode.com/problems/next-greater-node-in-linked-list/                                     |
 |  75 | Critical Points in a Linked List — 2058             | LeetCode, Medium      | https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/ |
-|  76 | Double a Number Represented as a Linked List — 2816 | LeetCode, Medium      | https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/                         |
 |  77 | Merge In Between Linked Lists — 1669                | LeetCode, Medium      | https://leetcode.com/problems/merge-in-between-linked-lists/                                        |
 
 ## 2D Matrices and Grids (81–120)
@@ -39,11 +35,9 @@
 |   # | Problem                                                                | Platform / difficulty | Link                                                                                 |
 | --: | ---------------------------------------------------------------------- | --------------------- | ------------------------------------------------------------------------------------ |
 |  88 | Maximal Square — 221                                                   | LeetCode, Medium      | https://leetcode.com/problems/maximal-square/                                        |
-|  93 | Game of Life — 289                                                     | LeetCode, Medium      | https://leetcode.com/problems/game-of-life/                                          |
 |  94 | Surrounded Regions — 130                                               | LeetCode, Medium      | https://leetcode.com/problems/surrounded-regions/                                    |
 |  95 | Pacific Atlantic Water Flow — 417                                      | LeetCode, Medium      | https://leetcode.com/problems/pacific-atlantic-water-flow/                           |
 |  99 | As Far from Land as Possible — 1162                                    | LeetCode, Medium      | https://leetcode.com/problems/as-far-from-land-as-possible/                          |
-| 100 | Count Square Submatrices with All Ones — 1277                          | LeetCode, Medium      | https://leetcode.com/problems/count-square-submatrices-with-all-ones/                |
 | 104 | Trapping Rain Water II — 407                                           | LeetCode, Hard        | https://leetcode.com/problems/trapping-rain-water-ii/                                |
 | 105 | Number of Closed Islands — 1254                                        | LeetCode, Medium      | https://leetcode.com/problems/number-of-closed-islands/                              |
 | 106 | Number of Enclaves — 1020                                              | LeetCode, Medium      | https://leetcode.com/problems/number-of-enclaves/                                    |
@@ -58,7 +52,6 @@
 
 |   # | Problem                                                  | Platform / difficulty               | Link                                                                             |
 | --: | -------------------------------------------------------- | ----------------------------------- | -------------------------------------------------------------------------------- |
-| 129 | Poisoned Dagger — 1613C                                  | Codeforces, 1200                    | https://codeforces.com/problemset/problem/1613/C                                 |
 | 133 | Jumping Through Segments — 1907D                         | Codeforces, 1400                    | https://codeforces.com/problemset/problem/1907/D                                 |
 | 134 | Wooden Toy Festival — 1840D                              | Codeforces, 1400                    | https://codeforces.com/problemset/problem/1840/D                                 |
 | 135 | Place for a Selfie — 1805C                               | Codeforces, 1400                    | https://codeforces.com/problemset/problem/1805/C                                 |
@@ -80,7 +73,6 @@
 |   # | Problem                                              | Platform / difficulty               | Link                                                                       |
 | --: | ---------------------------------------------------- | ----------------------------------- | -------------------------------------------------------------------------- |
 | 169 | Maximal Rectangle — 85                               | LeetCode, Hard; duplicate of #102   | https://leetcode.com/problems/maximal-rectangle/                           |
-| 171 | Basic Calculator II — 227                            | LeetCode, Medium                    | https://leetcode.com/problems/basic-calculator-ii/                         |
 | 173 | Remove K Digits — 402                                | LeetCode, Medium                    | https://leetcode.com/problems/remove-k-digits/                             |
 | 174 | Decode String — 394                                  | LeetCode, Medium                    | https://leetcode.com/problems/decode-string/                               |
 | 175 | Asteroid Collision — 735                             | LeetCode, Medium                    | https://leetcode.com/problems/asteroid-collision/                          |
