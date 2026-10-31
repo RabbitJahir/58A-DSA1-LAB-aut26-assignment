@@ -9,8 +9,6 @@
 |   5 | Array Game — 1904C                        | Codeforces, 1400      | https://codeforces.com/problemset/problem/1904/C                   |
 |   6 | Trinity — 2032C                           | Codeforces, 1400      | https://codeforces.com/problemset/problem/2032/C                   |
 |   9 | Cat, Fox and the Lonely Array — 1973B     | Codeforces, 1300      | https://codeforces.com/problemset/problem/1973/B                   |
-|  24 | 3Sum — 15                                 | LeetCode, Medium      | https://leetcode.com/problems/3sum/                                |
-|  25 | Subarray Sum Equals K — 560               | LeetCode, Medium      | https://leetcode.com/problems/subarray-sum-equals-k/               |
 |  29 | Next Permutation — 31                     | LeetCode, Medium      | https://leetcode.com/problems/next-permutation/                    |
 |  33 | Non-overlapping Intervals — 435           | LeetCode, Medium      | https://leetcode.com/problems/non-overlapping-intervals/           |
 |  38 | Sliding Window Maximum — 239              | LeetCode, Hard        | https://leetcode.com/problems/sliding-window-maximum/              |
@@ -20,7 +18,6 @@
 
 |   # | Problem                                             | Platform / difficulty | Link                                                                                                |
 | --: | --------------------------------------------------- | --------------------- | --------------------------------------------------------------------------------------------------- |
-|  48 | Partition List — 86                                 | LeetCode, Medium      | https://leetcode.com/problems/partition-list/                                                       |
 |  51 | Copy List with Random Pointer — 138                 | LeetCode, Medium      | https://leetcode.com/problems/copy-list-with-random-pointer/                                        |
 |  59 | Flatten a Multilevel Doubly Linked List — 430       | LeetCode, Medium      | https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/                              |
 |  62 | LRU Cache — 146                                     | LeetCode, Medium      | https://leetcode.com/problems/lru-cache/                                                            |
@@ -79,7 +76,6 @@
 | 176 | Online Stock Span — 901                              | LeetCode, Medium                    | https://leetcode.com/problems/online-stock-span/                           |
 | 177 | 132 Pattern — 456                                    | LeetCode, Medium                    | https://leetcode.com/problems/132-pattern/                                 |
 | 178 | Sum of Subarray Minimums — 907                       | LeetCode, Medium                    | https://leetcode.com/problems/sum-of-subarray-minimums/                    |
-| 179 | Remove Duplicate Letters — 316                       | LeetCode, Medium                    | https://leetcode.com/problems/remove-duplicate-letters/                    |
 | 180 | Shortest Unsorted Continuous Subarray — 581          | LeetCode, Medium                    | https://leetcode.com/problems/shortest-unsorted-continuous-subarray/       |
 | 184 | Longest Valid Parentheses — 32                       | LeetCode, Hard                      | https://leetcode.com/problems/longest-valid-parentheses/                   |
 | 185 | Trapping Rain Water — 42                             | LeetCode, Hard; duplicate of #36    | https://leetcode.com/problems/trapping-rain-water/                         |
