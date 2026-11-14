@@ -21,7 +21,7 @@
 |  63 | LFU Cache — 460                                     | LeetCode, Hard        | https://leetcode.com/problems/lfu-cache/                                                            |
 |  72 | Next Greater Node In Linked List — 1019             | LeetCode, Medium      | https://leetcode.com/problems/next-greater-node-in-linked-list/                                     |
 |  75 | Critical Points in a Linked List — 2058             | LeetCode, Medium      | https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/ |
-|  77 | Merge In Between Linked Lists — 1669                | LeetCode, Medium      | https://leetcode.com/problems/merge-in-between-linked-lists/                                        |
+|  77 | Merge In Between Linked Lists — 1669                | LeetCode, Medium      |                                         |
 
 ## 2D Matrices and Grids (81–120)
 
