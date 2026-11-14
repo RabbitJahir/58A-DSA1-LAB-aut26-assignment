@@ -7,8 +7,6 @@
 |   # | Problem                                   | Platform / difficulty | Link                                                               |
 | --: | ----------------------------------------- | --------------------- | ------------------------------------------------------------------ |
 |   5 | Array Game — 1904C                        | Codeforces, 1400      | https://codeforces.com/problemset/problem/1904/C                   |
-|   6 | Trinity — 2032C                           | Codeforces, 1400      | https://codeforces.com/problemset/problem/2032/C                   |
-|   9 | Cat, Fox and the Lonely Array — 1973B     | Codeforces, 1300      | https://codeforces.com/problemset/problem/1973/B                   |
 |  29 | Next Permutation — 31                     | LeetCode, Medium      | https://leetcode.com/problems/next-permutation/                    |
 |  33 | Non-overlapping Intervals — 435           | LeetCode, Medium      | https://leetcode.com/problems/non-overlapping-intervals/           |
 |  38 | Sliding Window Maximum — 239              | LeetCode, Hard        | https://leetcode.com/problems/sliding-window-maximum/              |
@@ -49,9 +47,7 @@
 | 133 | Jumping Through Segments — 1907D                         | Codeforces, 1400                    | https://codeforces.com/problemset/problem/1907/D                                 |
 | 134 | Wooden Toy Festival — 1840D                              | Codeforces, 1400                    | https://codeforces.com/problemset/problem/1840/D                                 |
 | 135 | Place for a Selfie — 1805C                               | Codeforces, 1400                    | https://codeforces.com/problemset/problem/1805/C                                 |
-| 136 | Schedule Management — 1701C                              | Codeforces, 1400                    | https://codeforces.com/problemset/problem/1701/C                                 |
 | 137 | Array Game — 1904C                                       | Codeforces, 1400; duplicate of #5   | https://codeforces.com/problemset/problem/1904/C                                 |
-| 138 | Slay the Dragon — 1574C                                  | Codeforces, 1300                    | https://codeforces.com/problemset/problem/1574/C                                 |
 | 146 | Search in Rotated Sorted Array II — 81                   | LeetCode, Medium                    | https://leetcode.com/problems/search-in-rotated-sorted-array-ii/                 |
 | 149 | Capacity To Ship Packages Within D Days — 1011           | LeetCode, Medium                    | https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/           |
 | 152 | Find K-th Smallest Pair Distance — 719                   | LeetCode, Hard                      | https://leetcode.com/problems/find-k-th-smallest-pair-distance/                  |
